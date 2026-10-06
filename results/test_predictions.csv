@@ -1,0 +1,1254 @@
+﻿id,text,label,language,source,predicted_label,confidence,correct
+21f12e6f69e2b23a,"I love my 350 headset.. My Jabra350 bluetooth headset is great, the reception is very good and the ear piece is a comfortable fit.",positive,en,UCI-amazon,positive,0.987406810988415,True
+62adf4fe65185fe2,Do NOT buy if you want to use the holster.,negative,en,UCI-amazon,negative,0.8851345608399663,True
+ad6e227736437adc,المستحسن,positive,ar,AFINN-ar-translated-lexicon,positive,0.6617796043345547,True
+9c7373529a5fe401,عهد,positive,ar,AFINN-ar-translated-lexicon,negative,0.8713238780676993,False
+aa6e0a2ab83202f6,طفح جلدي,negative,ar,AFINN-ar-translated-lexicon,negative,0.8040205391022627,True
+5218e01c5a5a790b,التعبيس,negative,ar,AFINN-ar-translated-lexicon,negative,0.8036981540336056,True
+38b9c6b7be82a3d0,عرب,negative,ar,AFINN-ar-translated-lexicon,negative,0.525482947962292,True
+15031911d08e7370,Beautiful styling though.,positive,en,UCI-amazon,positive,0.8624020317904239,True
+5b6f561206b6cedd,السجناء,negative,ar,AFINN-ar-translated-lexicon,negative,0.9203560512665899,True
+6045d6ea229f2c39,"Unfortunately, inexperience of direction meant that scene after scene passed with little in the way of dramatic tension or conflict.",negative,en,UCI-imdb,negative,0.8264602944998255,True
+04b5c1616960afa6,إسقاط,negative,ar,AFINN-ar-translated-lexicon,negative,0.6372266208524966,True
+2856d6ac1ad76f82,Terrible service!,negative,en,UCI-yelp,negative,0.8753951949950391,True
+76d795804c2d8763,Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.,positive,en,UCI-yelp,positive,0.9250327100660851,True
+d9bb593183c6a2e0,سالم,negative,ar,AFINN-ar-translated-lexicon,positive,0.5494590740389164,False
+14d070d847093df2,It finds my cell phone right away when I enter the car.,positive,en,UCI-amazon,positive,0.8254151487004144,True
+099b11ec260385e8,بتأييد,positive,ar,AFINN-ar-translated-lexicon,negative,0.6257982644123131,False
+3fb1a4cc9242af0d,حرم,negative,ar,AFINN-ar-translated-lexicon,negative,0.5563949899644778,True
+094656c6f0e9cab1,The story is also both funny and poignant at times.,positive,en,UCI-imdb,positive,0.7196913478955765,True
+8332c1c9af13ede9,much better than the hard plastic cases.,positive,en,UCI-amazon,positive,0.6119762646051096,True
+551c4c58eda1c8a1,Ryan's Bar is definitely one Edinburgh establishment I won't be revisiting.,negative,en,UCI-yelp,positive,0.663861292630235,False
+71b2de3db8ae94c4,هالة,positive,ar,AFINN-ar-translated-lexicon,positive,0.5789140082654056,True
+5624f88d2828423c,"All the actors give a wonderful performance, especially Jennifer Rubin as Jamie Harris, who changes from the nervous starlet in the beginning through the strange events she is part of to the cool star.",positive,en,UCI-imdb,positive,0.8600789724094308,True
+c26c266e8a2721ca,لعنه,negative,ar,AFINN-ar-translated-lexicon,negative,0.5973170117235513,True
+163be3fbf847722c,اختطاف,negative,ar,AFINN-ar-translated-lexicon,negative,0.7778681604813515,True
+d1189eb98aeffa86,"The acting sucks, the music sucks, the script sucks, the pacing sucks, the special FX suck, the directing sucks... basically, this movie sucks.",negative,en,UCI-imdb,negative,0.9332472054064563,True
+c4d849b7d1a4bfb0,The film has an ultra-cheap look to it.,negative,en,UCI-imdb,negative,0.5468612336314307,True
+c3940f9496a6f500,شوهت,negative,ar,AFINN-ar-translated-lexicon,negative,0.8150868538201008,True
+beef664fb2e3226f,Absolutel junk.,negative,en,UCI-amazon,negative,0.6718744842890871,True
+a39b88325c60b243,العنصريين,negative,ar,AFINN-ar-translated-lexicon,negative,0.8499757749728982,True
+574153eda60ccb85,بشار,negative,ar,AFINN-ar-translated-lexicon,negative,0.5860402750459388,True
+d0701f30b9f751db,"Fits comfortably, came with three sizes of earbud tips.",positive,en,UCI-amazon,positive,0.6385559199137624,True
+8130af419e6ece58,مرفوض,negative,ar,AFINN-ar-translated-lexicon,negative,0.7869892668444808,True
+fbc7ee67ce142a92,هدوء,positive,ar,AFINN-ar-translated-lexicon,positive,0.6338426641151572,True
+de7ac1423c7a7610,شمولي,negative,ar,AFINN-ar-translated-lexicon,negative,0.6073413719245494,True
+897675204e6e5837,"For that, it's worth checking out.",positive,en,UCI-imdb,positive,0.6782623499137704,True
+7cd6ea89f4a54cf9,The food wasn't good.,negative,en,UCI-yelp,negative,0.6488522474537508,True
+4ff9306e1f72e173,Just don't know why they were so slow.,negative,en,UCI-yelp,negative,0.9255192055493368,True
+48a1a88144a3943f,يهرب,negative,ar,AFINN-ar-translated-lexicon,negative,0.7507999356632931,True
+f95ba68c8afda02f,نفى من غير محاكمة,negative,ar,AFINN-ar-translated-lexicon,negative,0.9404414400549053,True
+ffdd3b690ef7c0fc,"Bad script, bad direction and horrible acting make this one plain bad!",negative,en,UCI-imdb,negative,0.9875237604121786,True
+83e9b9688a263a44,مزورة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5145589316272965,True
+d0707a64011c72ed,جزيره,negative,ar,AFINN-ar-translated-lexicon,negative,0.6333609629093626,True
+393b0fd680818aa5,الكوارث,negative,ar,AFINN-ar-translated-lexicon,negative,0.5476065432356689,True
+0d5ebb254a5a41b9,خلف,negative,ar,AFINN-ar-translated-lexicon,negative,0.770525622288321,True
+3de67bf893efd43e,تدمر,negative,ar,AFINN-ar-translated-lexicon,negative,0.8123758808296354,True
+d7545c0f47da42b8,يحترم,positive,ar,AFINN-ar-translated-lexicon,positive,0.6720487517655397,True
+3661cc67d108ad4a,It's so bad it's actually worth seeing just for that reason.,negative,en,UCI-imdb,positive,0.5634435797878198,False
+542e141736fe0f51,هزلي,positive,ar,AFINN-ar-translated-lexicon,negative,0.7435389235169578,False
+09b4c01d1d589fe1,And generally the lines and plot is weaker than the average episode.,negative,en,UCI-imdb,negative,0.7046229134662823,True
+57b541243ea2d82f,Works good.,positive,en,UCI-amazon,positive,0.9886201609708514,True
+7eede7f868b8da44,رد فعل بصورة مبالغة,negative,ar,AFINN-ar-translated-lexicon,negative,0.7812758865434384,True
+ccaf47e77997ba95,روسي,negative,ar,AFINN-ar-translated-lexicon,positive,0.6035942640702281,False
+ea580c3eb9bd63eb,سلام,positive,ar,AFINN-ar-translated-lexicon,negative,0.5846542095506324,False
+ee34fc4383774798,مشتبه فيه,negative,ar,AFINN-ar-translated-lexicon,negative,0.7909440761616692,True
+6c5023ba28f6d66f,"Lewis Black's considerable talent is wasted here too, as he is at his most incendiary when he is unrestrained, which the PG-13 rating certainly won't allow.",negative,en,UCI-imdb,negative,0.8376754505400061,True
+370da3c7b9463cc8,خنق,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+e1c31e37f416388e,مزيفة,negative,ar,AFINN-ar-translated-lexicon,positive,0.7199382851575937,False
+28c57c9125bbed01,وعود,positive,ar,AFINN-ar-translated-lexicon,negative,0.8166882537215685,False
+24071ec1c824749b,الاعتزاز,positive,ar,AFINN-ar-translated-lexicon,negative,0.7604098037347059,False
+d2f9a21a87f118c0,"The fact is, this film is a wonderful, heartwarming tale about two people chasing their dreams.",positive,en,UCI-imdb,positive,0.9387973861136579,True
+fd896ebab08d56fd,مشي,negative,ar,AFINN-ar-translated-lexicon,negative,0.6284167007915844,True
+d3a40b7bc0d70cdd,Don't do it!!!!,negative,en,UCI-yelp,negative,0.8389520054214672,True
+bd5660fa52aec010,عززت,positive,ar,AFINN-ar-translated-lexicon,positive,0.6280197484370057,True
+71b03f1bef2a17f0,بصري,positive,ar,AFINN-ar-translated-lexicon,negative,0.6369933010616857,False
+b2b22f02fa4d298f,My husband said she was very rude... did not even apologize for the bad food or anything.,negative,en,UCI-yelp,negative,0.9540746383276814,True
+78b5a7a4c858319a,سم,negative,ar,AFINN-ar-translated-lexicon,negative,0.525715717237198,True
+bd85c05ed106c725,"Unfortunately, it was not good.",negative,en,UCI-yelp,negative,0.9260161176621687,True
+c40cef3280ad3c6f,علمي,positive,ar,AFINN-ar-translated-lexicon,negative,0.5400195427477259,False
+edafe5812abfe5d7,Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.,positive,en,UCI-yelp,positive,0.9282962669684869,True
+ccd71785ede7063f,حفز,positive,ar,AFINN-ar-translated-lexicon,negative,0.5969917550997332,False
+7612d1f6139751e0,عقلي,negative,ar,AFINN-ar-translated-lexicon,negative,0.7353930364196843,True
+e885df36ca1a1552,Weird vibe from owners.,negative,en,UCI-yelp,positive,0.5243060710171515,False
+9c268d8631b210a8,"The story is lame, not interesting and NEVER really explains the sinister origins of the puppets.",negative,en,UCI-imdb,negative,0.8658459665415863,True
+c1730f6c6e7ed33b,مثير للمشاعر,positive,ar,AFINN-ar-translated-lexicon,negative,0.7006807905582669,False
+4a592748ac83ab72,منبوذ,negative,ar,AFINN-ar-translated-lexicon,positive,0.6934431981318137,False
+e8991144fadb937c,خيانه,negative,ar,AFINN-ar-translated-lexicon,negative,0.6967842376196076,True
+faf7b5b9eecbe032,لعوب,positive,ar,AFINN-ar-translated-lexicon,negative,0.5503635340137396,False
+d3d402749202a7ad,سلب,negative,ar,AFINN-ar-translated-lexicon,negative,0.7051950074499329,True
+08aa5a19f7479db2,جدي,positive,ar,AFINN-ar-translated-lexicon,positive,0.5425045185079295,True
+508a5ac6da39b6db,Battery life still not long enough in Motorola Razor V3i.,negative,en,UCI-amazon,negative,0.6230080431786253,True
+623530c0c0242653,نقص,negative,ar,AFINN-ar-translated-lexicon,negative,0.5934698143346022,True
+d8cb7a24ae00ecb4,اقبال,positive,ar,AFINN-ar-translated-lexicon,negative,0.5411057932765185,False
+13db9a53cd02c949,استاذ,positive,ar,AFINN-ar-translated-lexicon,negative,0.5622782871011393,False
+babca243c80929cb,يتصلب,positive,ar,AFINN-ar-translated-lexicon,negative,0.5263682064101547,False
+1dcae22b962d7976,تقدم,positive,ar,AFINN-ar-translated-lexicon,negative,0.5511484731502632,False
+d60ebd0eaf00a26a,شرملس,negative,ar,AFINN-ar-translated-lexicon,negative,0.5811653021887785,True
+2ec5e6ce18dc0a8c,حليف,positive,ar,AFINN-ar-translated-lexicon,positive,0.7376788080097042,True
+fa628bc2661984b1,"The food was great as always, compliments to the chef.",positive,en,UCI-yelp,positive,0.91426046582047,True
+2e4457ac63844026,مؤلم,negative,ar,AFINN-ar-translated-lexicon,negative,0.6477515820876076,True
+a27373fea9405384,This is a great phone!.,positive,en,UCI-amazon,positive,0.9821804985379972,True
+6875ae42dfb3bd91,Don't bother - go to the store.,negative,en,UCI-amazon,negative,0.8332964941094855,True
+c009e240dce2f454,بطرك,negative,ar,AFINN-ar-translated-lexicon,positive,0.6933090278010149,False
+9a571fe8c4d04692,تحايل,negative,ar,AFINN-ar-translated-lexicon,negative,0.7543191281627617,True
+75e897de9beaa348,I will continue to come here on ladies night andddd date night ... highly recommend this place to anyone who is in the area (;,positive,en,UCI-yelp,positive,0.7950382002330305,True
+386e60d4dbe870cc,The selection on the menu was great and so were the prices.,positive,en,UCI-yelp,positive,0.9761640718104581,True
+a5e9dab7a7b3b5c0,سلس,positive,ar,AFINN-ar-translated-lexicon,negative,0.594427873350751,False
+758329f5a38b4ce7,مسجون,negative,ar,AFINN-ar-translated-lexicon,negative,0.5582822184082639,True
+190e07b51ee5d4c4,فكاهة,positive,ar,AFINN-ar-translated-lexicon,negative,0.5835687041962816,False
+f7e97b9164ac3290,awesome device.,positive,en,UCI-amazon,positive,0.961101201424756,True
+a128416b7f088f22,توفي,negative,ar,AFINN-ar-translated-lexicon,negative,0.5084074612398528,True
+baf313aaac605f86,أحلى,positive,ar,AFINN-ar-translated-lexicon,positive,0.5170437886215518,True
+9a1ee14b731ca469,مضطرب,negative,ar,AFINN-ar-translated-lexicon,negative,0.7940871820417199,True
+4de74005bdec8aae,زلزال,negative,ar,AFINN-ar-translated-lexicon,negative,0.7838165246672771,True
+780abce08c45f595,I'd love to go back.,positive,en,UCI-yelp,positive,0.8113318876787012,True
+3046d860ecce8b73,you can watch them preparing the delicious food!),positive,en,UCI-yelp,positive,0.8776292787519114,True
+32921ffbec4ffcfc,This is simply the BEST bluetooth headset for sound quality!,positive,en,UCI-amazon,positive,0.907201684334186,True
+05a97827efb31919,طرد,negative,ar,AFINN-ar-translated-lexicon,negative,0.5670567713449302,True
+849c27716554ef39,متحمس,positive,ar,AFINN-ar-translated-lexicon,positive,0.8029317078705248,True
+375700d6620704c4,I vomited in the bathroom mid lunch.,negative,en,UCI-yelp,negative,0.8590251921830374,True
+cc0c2b2524f09117,I can't use this case because the smell is disgusting.,negative,en,UCI-amazon,negative,0.728557768341439,True
+9cf707db60767da9,ترسخ,positive,ar,AFINN-ar-translated-lexicon,negative,0.7237654727875584,False
+9195eb2e2fedcde0,هبوط,negative,ar,AFINN-ar-translated-lexicon,negative,0.5895487698434891,True
+eaaa818877d5f4be,طرف,positive,ar,AFINN-ar-translated-lexicon,positive,0.5584865215775565,True
+e3a483ac911ac126,تخلى,negative,ar,AFINN-ar-translated-lexicon,negative,0.5288757296528803,True
+1618fc93a15fdd55,The cinematography-if it can be called that-sucked.,negative,en,UCI-imdb,positive,0.5976574284823245,False
+c5b70bf79fe202a8,"This was a poor remake of ""My Best Friends Wedding"".",negative,en,UCI-imdb,negative,0.5528692793910881,True
+99fd3e811145b4d1,Nice Sound.,positive,en,UCI-amazon,positive,0.9786012770380381,True
+717297cb86071ace,الجناة,negative,ar,AFINN-ar-translated-lexicon,negative,0.750333332796727,True
+680a119a7f75b236,I do think Tom Hanks is a good actor.,positive,en,UCI-imdb,positive,0.8674473991419119,True
+7bc7c134426dcf61,Very friendly staff.,positive,en,UCI-yelp,positive,0.8652053189637982,True
+e0124a605eb60679,However I needed some better instructions.,negative,en,UCI-amazon,positive,0.5448631514332571,False
+9b9ba2afa6abc303,"The film gives meaning to the phrase, ""Never in the history of human conflict has so much been owed by so many to so few.",positive,en,UCI-imdb,negative,0.6012745372354531,False
+8c103508c49cd26c,تباكى,negative,ar,AFINN-ar-translated-lexicon,negative,0.6291248602367845,True
+e8092299805975c4,Razr Battery - Good buy.,positive,en,UCI-amazon,positive,0.6837074279924888,True
+c730ed177e839486,متهلل,positive,ar,AFINN-ar-translated-lexicon,negative,0.8312129290971516,False
+1cfe229c93b7a271,"Special mention should be made of the superb music score and sound effects, which are an integral element in helping to make this such a memorable and enjoyable cartoon.",positive,en,UCI-imdb,positive,0.7857509520899205,True
+8341d5e42da23aef,Great service and food.,positive,en,UCI-yelp,positive,0.9824320421549942,True
+72fa8234f8e3c852,The battery is unreliable as well as the service use antena.,negative,en,UCI-amazon,negative,0.5202873004433338,True
+8d5b328140211222,I love this thing!,positive,en,UCI-amazon,positive,0.887402685092511,True
+440e9fd0a3749312,غد,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+f60eb1eb760b47f8,فائق,positive,ar,AFINN-ar-translated-lexicon,negative,0.5575934927538654,False
+420fbca0125242ea,"This place is like Chipotle, but BETTER.",positive,en,UCI-yelp,positive,0.7643510286490787,True
+4c4a1c5720bbdaad,"Point your finger at any item on the menu, order it and you won't be disappointed.",positive,en,UCI-yelp,negative,0.6225981054953525,False
+e8f253c2479fb325,I rather enjoyed it.,positive,en,UCI-imdb,positive,0.7335061112681547,True
+51865f65123caae7,التلوث,negative,ar,AFINN-ar-translated-lexicon,negative,0.8542003452953497,True
+4f2a82c72f23aba9,يذهل,positive,ar,AFINN-ar-translated-lexicon,negative,0.54435395444919,False
+0235952e08de7966,مأزق,negative,ar,AFINN-ar-translated-lexicon,negative,0.5681198200010327,True
+87247a4c6a8bbf3a,ويؤدي تجاهل,negative,ar,AFINN-ar-translated-lexicon,negative,0.8044149802540475,True
+3309b9dcef774747,مريح,positive,ar,AFINN-ar-translated-lexicon,negative,0.7182927224281471,False
+6fef5768bf17b4fb,The chips and sals a here is amazing!!!!!!!!!!!!!!!!!!!,positive,en,UCI-yelp,positive,0.7910135769688587,True
+9a9ef62f12e4d30f,مضايقة,negative,ar,AFINN-ar-translated-lexicon,negative,0.8028292308529728,True
+96630247f3beba6b,مقتنع,positive,ar,AFINN-ar-translated-lexicon,negative,0.7711931509248929,False
+2a9fed4743bcdf67,حلم,positive,ar,AFINN-ar-translated-lexicon,positive,0.5835255117549586,True
+4cde1e95bc049bea,As a sushi lover avoid this place by all means.,negative,en,UCI-yelp,negative,0.5878619695941731,True
+3f1c6de0cf9099f7,"I do love sushi, but I found Kabuki to be over-priced, over-hip and under-services.",negative,en,UCI-yelp,positive,0.8763822134939848,False
+cf55c71748183406,A fantastic neighborhood gem !!!,positive,en,UCI-yelp,positive,0.8037744861983417,True
+7b01decc9d9f8d34,"Then, as if I hadn't wasted enough of my life there, they poured salt in the wound by drawing out the time it took to bring the check.",negative,en,UCI-yelp,negative,0.8432236822142984,True
+535f099ee2f65b92,"Bought mainly for the charger, which broke soon after purchasing.",negative,en,UCI-amazon,negative,0.8073816179365169,True
+f9a5e7558ff02314,"But whatever it was that cost them so much, it didn't translate to quality, that's for sure.",negative,en,UCI-imdb,negative,0.7980777534677214,True
+d8efc0c6d1effd4c,شجب,negative,ar,AFINN-ar-translated-lexicon,positive,0.6038855033466044,False
+0dc68a8548d1324d,مرغوب فيه,positive,ar,AFINN-ar-translated-lexicon,negative,0.7757233149669223,False
+a41a0e3f710dd472,أشد قسوة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5435554929230082,True
+4165c1b3fef95557,Made very sturdy.,positive,en,UCI-amazon,positive,0.8761746398975884,True
+f144450c3949e821,تدخل,negative,ar,AFINN-ar-translated-lexicon,negative,0.7269024339118042,True
+1cac688f83f779a4,Simply beautiful.,positive,en,UCI-imdb,positive,0.8732777263312835,True
+139e1860cc4b552d,نوصي,positive,ar,AFINN-ar-translated-lexicon,positive,0.6602768172641569,True
+fd42a8bec3cc2807,معقل,negative,ar,AFINN-ar-translated-lexicon,negative,0.8769664977422523,True
+c1da42b3e09b0701,النقاد,negative,ar,AFINN-ar-translated-lexicon,negative,0.5215075065916632,True
+426747aa0ed8a036,Worst customer service.,negative,en,UCI-amazon,negative,0.9144764418478774,True
+ba8fbd2837914952,I liked the way Dustin Hoffman's character was ready to do just about everything to stay with his son.,positive,en,UCI-imdb,positive,0.7214456501491374,True
+d243ab0dc8ac1a55,روتيني,negative,ar,AFINN-ar-translated-lexicon,negative,0.5150936601798575,True
+2a7c7acbc454be87,"Also, if your phone is dropped, this case is not going to save it, specially when dropped face down.",negative,en,UCI-amazon,negative,0.8813953697651802,True
+9570ef2723ccb000,"Tom Wilkinson's character is a man who is not prepared for the ordeal that is about to begin, but he takes the matter in hand as the story progresses, and this great actor gives a performance that makes you feel the character's anguish and suffering.",positive,en,UCI-imdb,positive,0.8133825118026871,True
+8ebd09fe8fa70e01,"After my phone got to be about a year old, it's been slowly breaking despite much care on my part.",negative,en,UCI-amazon,negative,0.7264072901221155,True
+88e51aeb1c698daf,This is one of the best movies out there that shows such strong sibling bond for each other.,positive,en,UCI-imdb,positive,0.6760222906773048,True
+ecea588a8c1fe703,"Then I exchanged for the same phone, even that had the same problem.",negative,en,UCI-amazon,negative,0.7398804569920345,True
+202268e9654f057a,تبرع,positive,ar,AFINN-ar-translated-lexicon,negative,0.5853061660984329,False
+ca2df2a6da50bc46,After the disappointing dinner we went elsewhere for dessert.,negative,en,UCI-yelp,negative,0.8414893017653835,True
+917dcb41fb2ece48,I guess that nobody at the network that aired this dribble watched it before putting it on.,negative,en,UCI-imdb,negative,0.9088053872607609,True
+a287b492e7c4185e,يخدع,negative,ar,AFINN-ar-translated-lexicon,positive,0.5320034842204078,False
+936fd9b9a33c6c52,ملحد,negative,ar,AFINN-ar-translated-lexicon,negative,0.5588311838305815,True
+05d7155d5490ef3b,Loved the casting of Jimmy Buffet as the science teacher.,positive,en,UCI-imdb,positive,0.9151565075881688,True
+261482a92bec8d19,التقليل,negative,ar,AFINN-ar-translated-lexicon,negative,0.7917694315072143,True
+eca5e8a9e3bc0272,المرح,positive,ar,AFINN-ar-translated-lexicon,negative,0.5626383207190919,False
+f73c9d2ff83e00ad,تعقل,positive,ar,AFINN-ar-translated-lexicon,negative,0.8465492643302611,False
+f559b27d73fdde3e,Never got it!!!!!,negative,en,UCI-amazon,negative,0.5868180799236056,True
+f7221e35d4fa420b,الاحتيال,negative,ar,AFINN-ar-translated-lexicon,negative,0.8460362413374248,True
+dcf279dc8c6f007e,مثير,positive,ar,AFINN-ar-translated-lexicon,negative,0.6988364990946724,False
+9059e8c7a5c47a92,عجب,positive,ar,AFINN-ar-translated-lexicon,negative,0.5968404592751803,False
+386a798739fac90b,"But, in any case, the best part is, you can download these pictures to your laptop using IR, or even send pictures from your laptop to the phone.",positive,en,UCI-amazon,positive,0.504403193392847,True
+a7dc185ba3b41537,مغرض,negative,ar,AFINN-ar-translated-lexicon,negative,0.5243668680180709,True
+938a77b9ef690748,وحد,positive,ar,AFINN-ar-translated-lexicon,negative,0.7281980674503938,False
+2d9c4e8839293e84,غير صحيح,negative,ar,AFINN-ar-translated-lexicon,negative,0.9478403838207708,True
+618ba84338a94bf2,The nano stated it.My son was dissapointed.,negative,en,UCI-amazon,negative,0.8173263996801323,True
+9d013dce74cc56be,Horrible!,negative,en,UCI-imdb,negative,0.9515747183448835,True
+fa05240fec8285db,A PIECE OF JUNK THAT BROKE AFTER BEING ON MY PHONE FOR 2 DAYS!!!,negative,en,UCI-amazon,negative,0.885765421875639,True
+afdc74ed63aa0218,The only thing I did like was the prime rib and dessert section.,positive,en,UCI-yelp,positive,0.5507586566832062,True
+5c0c83f901a245c2,اسكندريه,positive,ar,AFINN-ar-translated-lexicon,negative,0.8035480746969242,False
+a9f64459aaf0a9db,The two main characters may be two of the most believable children I ever saw put on screen.,positive,en,UCI-imdb,positive,0.7559165785198297,True
+1155dea9382fe2d0,"IMDB ratings only go as low 1 for awful, it's time to get some negative numbers in there for cases such as these.",negative,en,UCI-imdb,negative,0.8256300566177245,True
+4e09d21bb4bac919,حشد,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+ef55db4d3fc061ff,"To those who find this movie intelligent or even masterful, I can only say - it's your intelligence and your imagination you obviously used to try and make some sense of this pitiful attempt (it's in our human nature to try and make sense of things) .",negative,en,UCI-imdb,positive,0.6882002376283077,False
+599d82fd9816194e,صحي,positive,ar,AFINN-ar-translated-lexicon,positive,0.6438626047037874,True
+5d67bcb6ed73a50a,حوز,negative,ar,AFINN-ar-translated-lexicon,positive,0.5676377621618056,False
+e173ed835dcb96c5,شرك,negative,ar,AFINN-ar-translated-lexicon,positive,0.5780827368877859,False
+2e26f077f5440464,I bought this to use with my Kindle Fire and absolutely loved it!,positive,en,UCI-amazon,positive,0.9318047877279203,True
+8208b23f82766bd9,افسد,negative,ar,AFINN-ar-translated-lexicon,negative,0.7391336092356298,True
+d495994c285e5146,العشق,positive,ar,AFINN-ar-translated-lexicon,positive,0.570912422537781,True
+332ae61bd17c2805,مهزلة,negative,ar,AFINN-ar-translated-lexicon,negative,0.6827685222531061,True
+9db2b67070d3e719,Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.,negative,en,UCI-yelp,negative,0.7260160808929472,True
+298c98f8aa057dca,"Artless camera-work endlessly presents us with the ugliest setting imaginable, i.e.",negative,en,UCI-imdb,positive,0.5162440550827635,False
+1fe9d73a3562823b,تلف,negative,ar,AFINN-ar-translated-lexicon,negative,0.7937005691691392,True
+76f14b370aaa0399,Terrible management.,negative,en,UCI-yelp,negative,0.9305227332958353,True
+e421df4f0efeb6d2,قاس,negative,ar,AFINN-ar-translated-lexicon,negative,0.6850440332765817,True
+11cecfa607d8c1d7,"""You'll love it!",positive,en,UCI-imdb,positive,0.9786347256114912,True
+a3d18aaafb597bf6,"While I managed to bend the leaf spring back in place, the metal now has enough stress that it will break on the next drop.",negative,en,UCI-amazon,negative,0.6716217895390935,True
+2d7d6fe5e214f06f,"It is light, easy to use, and has very clear reception and transmission.",positive,en,UCI-amazon,positive,0.9600876377504904,True
+5b6fcb4074bbcf56,أحبط,negative,ar,AFINN-ar-translated-lexicon,negative,0.8824218211344368,True
+3d253f17490a69c2,"Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks.",negative,en,UCI-yelp,negative,0.7732457083732619,True
+3f3e7defa3d6a2ca,المفضل,positive,ar,AFINN-ar-translated-lexicon,positive,0.6812609335459902,True
+e0fa4e13e7955277,There still are good actors around!,positive,en,UCI-imdb,positive,0.6839752997589703,True
+5ce1d68e2cc7cdee,خذل,negative,ar,AFINN-ar-translated-lexicon,negative,0.703604454527802,True
+77395c93ed1a4a57,An excellent performance from Ms.,positive,en,UCI-imdb,positive,0.963162790540179,True
+bac5eb546c5f487b,الأرامل,negative,ar,AFINN-ar-translated-lexicon,negative,0.5564341272508784,True
+effa498b140e3491,"The opening sequence of this gem is a classic, and the cat n mouse games that follow are a delight to watch.",positive,en,UCI-imdb,positive,0.7309957058095785,True
+ccb1473074eea5ce,Their Research and Development division obviously knows what they're doing.,positive,en,UCI-amazon,positive,0.6184000566813733,True
+2cd7bdae80fa636d,Their daily specials are always a hit with my group.,positive,en,UCI-yelp,positive,0.785283921787258,True
+141a877309ce23b1,منفعل,positive,ar,AFINN-ar-translated-lexicon,positive,0.7699832771397463,True
+6a0b6afad3ca6f64,غباء,negative,ar,AFINN-ar-translated-lexicon,negative,0.7663462431490312,True
+70e068c53acbe79e,Julian Fellowes has triumphed again.,positive,en,UCI-imdb,positive,0.600022309360072,True
+656f5fa97ac91947,"It didn't make me scared, horrified, or make me sympathetic towards the characters; it was simply annoying.",negative,en,UCI-imdb,negative,0.9243253292064205,True
+0958aa8ebf1d97ae,A great touch.,positive,en,UCI-yelp,positive,0.9552282740372502,True
+b7fba9803d934548,"You get incredibly fresh fish, prepared with care.",positive,en,UCI-yelp,positive,0.7580176325361784,True
+d772c9c29e8cb866,كرامة,positive,ar,AFINN-ar-translated-lexicon,positive,0.5688642760524935,True
+5a917b6c661e1d5c,I checked out this place a couple years ago and was not impressed.,negative,en,UCI-yelp,positive,0.632718925836704,False
+ae0c2a1c162ead41,Very very fun chef.,positive,en,UCI-yelp,positive,0.8602835133596562,True
+b1df122aca2289cc,كويتيات النسائية,negative,ar,AFINN-ar-translated-lexicon,negative,0.5105104820075685,True
+0c30dcc4255a0a75,What the hell kind of crap is that?!,negative,en,UCI-imdb,negative,0.8128171434533751,True
+32ba9042527d42db,ناصر,negative,ar,AFINN-ar-translated-lexicon,positive,0.562306754292506,False
+c4bcbf188561dc6a,The service was a bit lacking.,negative,en,UCI-yelp,negative,0.853098578188785,True
+c9a822610e83cfb4,It kept getting worse and worse so now I'm officially done.,negative,en,UCI-yelp,negative,0.9055522820201878,True
+a5e0b5119e2ab51f,"The cable looks so thin and flimsy, it is scary.",negative,en,UCI-amazon,positive,0.6590480451900379,False
+f49499a4356c0ad6,جن,negative,ar,AFINN-ar-translated-lexicon,negative,0.5647717868571848,True
+66e54953fe3511f6,Hitchcock is a great director.,positive,en,UCI-imdb,positive,0.8784219107338802,True
+f66fd870a6d30db4,جهد,positive,ar,AFINN-ar-translated-lexicon,negative,0.8713238780676993,False
+913e95fd73b0d1db,A standout scene.,positive,en,UCI-imdb,negative,0.5662543486798197,False
+5f110649ebd81788,الحسناوات,positive,ar,AFINN-ar-translated-lexicon,positive,0.6161281389678502,True
+bc42114b68d754cd,My friend loved the salmon tartar.,positive,en,UCI-yelp,positive,0.810301183915131,True
+76a0a8a795f8fe5d,يسيء التصرف,negative,ar,AFINN-ar-translated-lexicon,negative,0.6618168847177055,True
+63f4d456f89cb9e2,"The microphone also works well, but (according to people I have called) it applifies everything.",positive,en,UCI-amazon,positive,0.8386959201104125,True
+694d938ffd24b767,احد,positive,ar,AFINN-ar-translated-lexicon,negative,0.5441583319159593,False
+18a2c3ab4f892314,يحشر,negative,ar,AFINN-ar-translated-lexicon,negative,0.675152273117614,True
+44e82ca50b2edc62,"Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas.",positive,en,UCI-yelp,positive,0.5887372816482241,True
+0bb8790115a8abd1,ضجر,negative,ar,AFINN-ar-translated-lexicon,negative,0.7695445365504648,True
+e4a95049dea68b00,"The atmosphere is modern and hip, while maintaining a touch of coziness.",positive,en,UCI-yelp,positive,0.7112489044242373,True
+a1cd196226d159a1,مكتئب,negative,ar,AFINN-ar-translated-lexicon,negative,0.6148532219480535,True
+dbf14451b3a3845e,ودي,positive,ar,AFINN-ar-translated-lexicon,negative,0.7822387266245032,False
+12af92f14b8bb499,I as well would've given godfathers zero stars if possible.,negative,en,UCI-yelp,negative,0.5842029252478902,True
+13ac8bf63dbb657f,هرب,negative,ar,AFINN-ar-translated-lexicon,negative,0.6898736554617888,True
+ed00fb3bbccd0b51,لا روح فيه,negative,ar,AFINN-ar-translated-lexicon,positive,0.5802012854149107,False
+fb0bf893b708859a,قبر,negative,ar,AFINN-ar-translated-lexicon,positive,0.5605277510123857,False
+eddebd0c02197b09,نفاق,negative,ar,AFINN-ar-translated-lexicon,negative,0.6571226128658747,True
+2e5ffcd0d14bf10e,"I'll put this gem up against any movie in terms of screenplay, cinematography, acting, post-production, editing, directing, or any other aspect of film-making.",positive,en,UCI-imdb,positive,0.5840221958394549,True
+672a7073d813b902,عاطلين عن العمل,negative,ar,AFINN-ar-translated-lexicon,negative,0.7858362200884441,True
+ba206692d67b1619,"Aside from it's terrible lead, this film has loads of other debits.",negative,en,UCI-imdb,negative,0.5964378443256254,True
+6d5aff277ff1d63b,"Another note about this phone's appearance is that it really looks rather bland, especially in the all black model.",negative,en,UCI-amazon,negative,0.676694808010466,True
+1a12fc54553ae4c2,حنية,positive,ar,AFINN-ar-translated-lexicon,positive,0.5929774780019297,True
+82ceab9fd35f4a38,Linda Cardellini is the only thing good in this film.,positive,en,UCI-imdb,positive,0.8199274479519211,True
+a3aba1aabe1ccfe4,Display is excellent and camera is as good as any from that year.,positive,en,UCI-amazon,positive,0.9373073095422719,True
+cfb1bc31e477745f,The film is way too long.,negative,en,UCI-imdb,positive,0.541714913579479,False
+1768f8056de663ac,ذراع,negative,ar,AFINN-ar-translated-lexicon,negative,0.7423326435031725,True
+8e4dc4b68764cd2d,اللعين,negative,ar,AFINN-ar-translated-lexicon,negative,0.7365995490195425,True
+efafd4fea352f553,"If you love authentic Mexican food and want a whole bunch of interesting, yet delicious meats to choose from, you need to try this place.",positive,en,UCI-yelp,positive,0.9532897567981384,True
+9fcff11595524484,If the two were seperated by a mere 5+ ft I started to notice excessive static and garbled sound from the headset.,negative,en,UCI-amazon,negative,0.5813301350884432,True
+5d80122523eacb53,I didn't realize how wonderful the short really is until the last two scenes.,positive,en,UCI-imdb,positive,0.544181332415018,True
+af983f39fa00236c,will definitely be back!,positive,en,UCI-yelp,positive,0.6355634830246932,True
+1340376efccef06f,"They are so easy to love, but even more easy to identify with.",positive,en,UCI-imdb,positive,0.9182113161298752,True
+98aeb2c3445c911c,نية حسنة,positive,ar,AFINN-ar-translated-lexicon,negative,0.5493649267481135,False
+187d7a0f3a9eb6e9,قلل,negative,ar,AFINN-ar-translated-lexicon,negative,0.9437320778550428,True
+3d5dfc3af1d0ca47,"All I can do is whine on the Internet, so here it goes.The more I use the thing the less I like it.",negative,en,UCI-amazon,positive,0.7690515364982655,False
+8e69ca19e865d279,فئه,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+e48c0e39f25d095f,"sucked, most of the stuff does not work with my phone.",negative,en,UCI-amazon,negative,0.8693372075302509,True
+636c63e71e975666,ضعيفة الأداء,negative,ar,AFINN-ar-translated-lexicon,negative,0.9079945683199904,True
+114a22a064306b3f,أحب,positive,ar,AFINN-ar-translated-lexicon,negative,0.6927827409585717,False
+3266692237871353,How can that be?The audio quality is poor.,negative,en,UCI-amazon,negative,0.8164299397927799,True
+eadd175c3466a6cd,"For service, I give them no stars.",negative,en,UCI-yelp,negative,0.5388528892424284,True
+13341cde1a5441f1,I'm still infatuated with this phone.,positive,en,UCI-amazon,positive,0.5001850881099269,True
+ee02ec0c3631e967,وفاة,negative,ar,AFINN-ar-translated-lexicon,positive,0.7132447189101507,False
+1f9b93c6b3c2530d,بالذعر,negative,ar,AFINN-ar-translated-lexicon,negative,0.7443126604510122,True
+40372d0bc94a9db2,The camera on the phone may be used as a dustpan when indoors... I'd rather be using a disposable then this.,negative,en,UCI-amazon,negative,0.8127787687140718,True
+89a91601a08019dd,جوع,negative,ar,AFINN-ar-translated-lexicon,positive,0.5423402672108634,False
+5cdc35194cac7e42,"i'm glad i found this product on amazon it is hard to find, it wasn't high priced.",positive,en,UCI-amazon,positive,0.6069330365790074,True
+70bde82b4a6dd5b1,سام,negative,ar,AFINN-ar-translated-lexicon,positive,0.7360883076032363,False
+4d6f9acff0b397d0,"Very good, though!",positive,en,UCI-yelp,positive,0.9515694735704064,True
+d0c66da2a19286cd,مفيد,positive,ar,AFINN-ar-translated-lexicon,negative,0.5855944302988294,False
+7ed1ededa7d5439b,حاجز,negative,ar,AFINN-ar-translated-lexicon,negative,0.5774640479817454,True
+169d3738e83efd9d,لوث,negative,ar,AFINN-ar-translated-lexicon,negative,0.8117558161653837,True
+11b9c0ae0e0bd596,ساكن,negative,ar,AFINN-ar-translated-lexicon,positive,0.7690261425623423,False
+169d19e5aa6c08bd,كمال,positive,ar,AFINN-ar-translated-lexicon,positive,0.5703797279893726,True
+cc5386f563f732ff,الهمجية,negative,ar,AFINN-ar-translated-lexicon,positive,0.6535996843508154,False
+a7dcce290f380465,نص,negative,ar,AFINN-ar-translated-lexicon,positive,0.720031433288122,False
+f646afcbe10f170c,Food quality has been horrible.,negative,en,UCI-yelp,negative,0.8331612652486289,True
+1800d089798d11bb,"Also, it's a real treat to see Anthony Quinn playing Crazy Horse.",positive,en,UCI-imdb,positive,0.7673806400122536,True
+0ac325198b425cc8,عرقلة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5867346550633947,True
+9408b1567df57d1b,تقويض,negative,ar,AFINN-ar-translated-lexicon,negative,0.5465758299765533,True
+f1b86c9533e5d3cd,انتقام,negative,ar,AFINN-ar-translated-lexicon,negative,0.6744278018368958,True
+e2374c53e1ea5fba,"A very good film indeed, about great and unconditional love.",positive,en,UCI-imdb,positive,0.9930292129779212,True
+7ae28035990b18f9,"You get extra minutes so that you can carry out the call and not get cut off.""",positive,en,UCI-amazon,negative,0.8624547127589477,False
+a599f64b9b076aa5,انتمي,negative,ar,AFINN-ar-translated-lexicon,positive,0.5386143155350764,False
+6179c923fbd0c5fe,The scripting of the subtle comedy is unmatched by any movie in recent years.,positive,en,UCI-imdb,positive,0.5045956435934853,True
+bb143489f8f4ac9d,I love this phone!.,positive,en,UCI-amazon,positive,0.9466695049017352,True
+f09b200634ee46fe,شرف,positive,ar,AFINN-ar-translated-lexicon,negative,0.6742001155660022,False
+ba3007c3e23c4a58,راعي,positive,ar,AFINN-ar-translated-lexicon,negative,0.6239256140396838,False
+0afd987536b56b40,Reception is terrible and full of static.,negative,en,UCI-amazon,negative,0.5679818706669841,True
+997ff71d7a6de78a,تم الالغاء,negative,ar,AFINN-ar-translated-lexicon,negative,0.898193395426035,True
+ba6086c845eb8d19,It definitely was not as good as my S11.,positive,en,UCI-amazon,positive,0.5133407449932166,True
+1737d70a75c150a6,Will not be back.,negative,en,UCI-yelp,negative,0.9720077060685778,True
+63bd3c6daa9509be,The accompanied software is almost brilliant.,positive,en,UCI-amazon,positive,0.6352944770243741,True
+daace001e3f22dab,There are some generally great things in it.,positive,en,UCI-imdb,positive,0.8917159170952305,True
+15533e690614149c,I felt as though her going to Ireland did absolutely nothing whatsoever.,negative,en,UCI-imdb,negative,0.9113646073647594,True
+713ccd9a86ac66ff,"The acting is fantastic, the stories are seamlessly woven together, and the dogs are splendid............. A must rent, view, or see.",positive,en,UCI-imdb,positive,0.8786644207550727,True
+be21efd9158eb9e6,مرض معد,negative,ar,AFINN-ar-translated-lexicon,negative,0.846685561981743,True
+a7b85e203ed8f7e5,ابرياء,negative,ar,AFINN-ar-translated-lexicon,negative,0.5180616231033488,True
+0082ce7fbf32ae0a,It also had a new problem.,negative,en,UCI-amazon,positive,0.5610797517097291,False
+84f4779c5898a59a,افريقيا,negative,ar,AFINN-ar-translated-lexicon,negative,0.6862484893576927,True
+93e9077b118839aa,I didn't know pulled pork could be soooo delicious.,positive,en,UCI-yelp,negative,0.5511047368007093,False
+8323aa366fe33d79,انتحاري,negative,ar,AFINN-ar-translated-lexicon,negative,0.614531954799578,True
+97a4f599fa47b0b4,I never come again.,negative,en,UCI-yelp,negative,0.573296266641912,True
+32539ddbee436923,مسؤولية,positive,ar,AFINN-ar-translated-lexicon,positive,0.6238306943929738,True
+53e7898fb09748b1,"At around 4 pm I bought it, at around 8pm I started to watch, at around 8.15pm I fast forwarded the remaining film to see if there was anything left watchable for a human being with a brain... but there wasn't.",negative,en,UCI-imdb,negative,0.7452705363034282,True
+4d230d862382bccf,شيوعي,negative,ar,AFINN-ar-translated-lexicon,negative,0.6855856383447831,True
+e5b97d34bafd2323,اجاب,negative,ar,AFINN-ar-translated-lexicon,positive,0.594747347930645,False
+27cfddf5750fad8a,نصراني,negative,ar,AFINN-ar-translated-lexicon,positive,0.5058813022963493,False
+a486dc08bab24669,خيبة أمل,negative,ar,AFINN-ar-translated-lexicon,negative,0.5019232294184551,True
+4bd6923189459b93,I highly recommend these and encourage people to give them a try.,positive,en,UCI-amazon,positive,0.9019931287901328,True
+55c5a8937e2eadd0,The folks at Otto always make us feel so welcome and special.,positive,en,UCI-yelp,positive,0.6505845238579759,True
+2faebddb099ee91d,The characters were very 'stagey' and the storyline was a lot like a stage farce.,negative,en,UCI-imdb,positive,0.6740623589929275,False
+530f42571e8b6a00,Won't go back.,negative,en,UCI-yelp,negative,0.5855519369319435,True
+227690ec9847cbb9,مرتجف,negative,ar,AFINN-ar-translated-lexicon,negative,0.7110133795374434,True
+3662ca79b5a47ab8,Excellent short film.,positive,en,UCI-imdb,positive,0.947236327953967,True
+aa535ad95f28dc71,The food is very good for your typical bar food.,positive,en,UCI-yelp,positive,0.7281540567461781,True
+d4e7a553d952bdda,مرجع,positive,ar,AFINN-ar-translated-lexicon,negative,0.7261032462665842,False
+45b3da46c20c6304,مظاهرة,negative,ar,AFINN-ar-translated-lexicon,negative,0.643251251562476,True
+a855823aeb4e5ec4,عبودي,negative,ar,AFINN-ar-translated-lexicon,negative,0.8477204723134811,True
+aad64f57a00f29fa,So there is no way for me to plug it in here in the US unless I go by a converter.,negative,en,UCI-amazon,negative,0.9094656050183618,True
+2e606462ebe48b65,ليله,positive,ar,AFINN-ar-translated-lexicon,negative,0.6371139706442493,False
+ae318ff2b1bb26a3,مرهق,negative,ar,AFINN-ar-translated-lexicon,positive,0.5015586545411207,False
+7e6691294725ac8e,The plot is nonsense that doesn't interest in the slightest way or have any uniqueness to it.,negative,en,UCI-imdb,negative,0.8052674090122235,True
+dde51e65979ff47c,تسلية,positive,ar,AFINN-ar-translated-lexicon,positive,0.6784282933818151,True
+2154933d7c93fb38,"None of it works, just don't buy it.",negative,en,UCI-amazon,negative,0.8223969175111931,True
+b96a324ffba31a1a,Yet Plantronincs continues to use the same flawed charger design.,negative,en,UCI-amazon,negative,0.6775001319944703,True
+1f178061ce587509,Good Quality.,positive,en,UCI-amazon,positive,0.9316407123202289,True
+cd404caa0c682797,ترامب,negative,ar,AFINN-ar-translated-lexicon,positive,0.5824646919318971,False
+08b26623a480f3ba,يحسن,positive,ar,AFINN-ar-translated-lexicon,positive,0.8980402102531181,True
+968f3a3f7c55bdee,"Schrader has made a resume full of lousy, amateurish films.",negative,en,UCI-imdb,positive,0.6305608048593853,False
+05d71bad774f1b4e,متزايد,positive,ar,AFINN-ar-translated-lexicon,positive,0.6398695281450757,True
+631b6753a761188e,إثم,negative,ar,AFINN-ar-translated-lexicon,negative,0.5195089318766775,True
+d808624aae3116fb,غرب,negative,ar,AFINN-ar-translated-lexicon,negative,0.5471610615714984,True
+efee52caf4c362cf,"The range is very decent, I've been able to roam around my house with the phone in the living room with no reception/sound quality issues.",positive,en,UCI-amazon,positive,0.6955623692810174,True
+dd4ba687276cecc0,أخطاء,negative,ar,AFINN-ar-translated-lexicon,positive,0.5394570503107957,False
+9a8df4d17500c726,it did not work in my cell phone plug i am very up set with the charger!.,negative,en,UCI-amazon,negative,0.5774770023435818,True
+884af501019a6199,"Every time I eat here, I see caring teamwork to a professional degree.",positive,en,UCI-yelp,positive,0.634298888200193,True
+27f330643213ecb8,"To be honest with you, this is unbelievable nonsense and very foolish.",negative,en,UCI-imdb,positive,0.6320562967681278,False
+51fcca5d2f8f0c99,الأرق,negative,ar,AFINN-ar-translated-lexicon,positive,0.5109635644675943,False
+c72a611b43341e1d,"Regardless, the film fails on most levels.",negative,en,UCI-imdb,negative,0.682744517887051,True
+fdf15b8208c99607,Works for me.,positive,en,UCI-amazon,positive,0.7583669590556747,True
+d222b0f8bda550a8,Mediocre food.,negative,en,UCI-yelp,negative,0.8840797704998775,True
+aa15be6d77dc5741,"I love the owner/chef, his one authentic Japanese cool dude!",positive,en,UCI-yelp,positive,0.9536023609202391,True
+7578e415fae28873,تجاهل,negative,ar,AFINN-ar-translated-lexicon,negative,0.7758285150670594,True
+8b082175a99ae863,You could drive a semi truck into these holes!,negative,en,UCI-imdb,negative,0.5712326818116604,True
+5046c3742f9d9aef,كنيس,negative,ar,AFINN-ar-translated-lexicon,negative,0.5673167576048508,True
+a6e0c4aedbfe0cbc,مهدي,negative,ar,AFINN-ar-translated-lexicon,negative,0.6849929787787867,True
+675f568b7aa90eab,يقيد,negative,ar,AFINN-ar-translated-lexicon,positive,0.6510240229248657,False
+92bc6c58e1647135,ذبح,negative,ar,AFINN-ar-translated-lexicon,negative,0.6544423542573502,True
+d3a08a812c63fed1,مستحيل,negative,ar,AFINN-ar-translated-lexicon,negative,0.6448927294214892,True
+37897716ecfa84aa,It is not good.,negative,en,UCI-imdb,negative,0.6417965890127907,True
+636120ef3dc162b3,تشهيري,negative,ar,AFINN-ar-translated-lexicon,positive,0.6740261546559013,False
+4310c805532ffe93,سرور,positive,ar,AFINN-ar-translated-lexicon,negative,0.5533553778504829,False
+b30aa1b068cdb972,"Thus far, have only visited twice and the food was absolutely delicious each time.",positive,en,UCI-yelp,positive,0.7809751296227183,True
+ccfc1013ed353254,مدخرات,positive,ar,AFINN-ar-translated-lexicon,positive,0.7650695829813144,True
+7997e7706d2e81bb,The place was not clean and the food oh so stale!,negative,en,UCI-yelp,negative,0.7165759102598339,True
+d64ee573518b41cf,EXCELLENT SERVICE!!!!!!!!.,positive,en,UCI-amazon,positive,0.8702944630334336,True
+bcc66d73b547edf8,اقنع,positive,ar,AFINN-ar-translated-lexicon,positive,0.689520290232432,True
+3dbc3c9abc77d162,غير حاسم,negative,ar,AFINN-ar-translated-lexicon,negative,0.9322499247322293,True
+fea341d3a9f2c4e9,دكتور,positive,ar,AFINN-ar-translated-lexicon,negative,0.519123823245507,False
+0ef5c7735020cfe3,عار,negative,ar,AFINN-ar-translated-lexicon,negative,0.838989390143992,True
+b79aaad240a1f22c,There's a horrible tick sound in the background on all my calls that I have never experienced before.,negative,en,UCI-amazon,negative,0.877849225463862,True
+63d2e191867e0e60,مسلي,positive,ar,AFINN-ar-translated-lexicon,positive,0.6502492530959507,True
+ddb8b658844874ff,"Only like 3 or 4 buildings used, a couple of locations MAYBE, & poor hummh!",negative,en,UCI-imdb,negative,0.822144560408943,True
+51a367cf3874d835,نسب,negative,ar,AFINN-ar-translated-lexicon,positive,0.5219431475170455,False
+a3fa777457137290,"The food was very good and I enjoyed every mouthful, an enjoyable relaxed venue for couples small family groups etc.",positive,en,UCI-yelp,positive,0.9614383867108082,True
+830ed2ab3a0c4c27,"Then, there's the plot holes.",negative,en,UCI-imdb,negative,0.9016849831492065,True
+3280b165cb414193,مشاركه,positive,ar,AFINN-ar-translated-lexicon,positive,0.5534880458535509,True
+86d2419e6d1c6ac1,!I definitly recommend!!,positive,en,UCI-amazon,positive,0.8797930117111897,True
+1f668e882361aa8f,The black eyed peas and sweet potatoes... UNREAL!,positive,en,UCI-yelp,positive,0.6153775550277809,True
+8635fa73c178a640,"Initially the local sites in the film, which was filmed here in Buffalo, intrigued me.",positive,en,UCI-imdb,negative,0.7294050985071403,False
+12d779cb80e1862b,سبام,negative,ar,AFINN-ar-translated-lexicon,negative,0.6397887467480494,True
+b0fbabe484a509ec,THERE IS NO PLOT OR STORYLINE!!,negative,en,UCI-imdb,negative,0.9110473856731709,True
+c406b918119be381,Also the area where my unit broke).- I'm not too fond of the magnetic strap.,negative,en,UCI-amazon,negative,0.9518249464183676,True
+571d92d34029350f,This greedy corporation will NEVER see another dime from me!,negative,en,UCI-yelp,negative,0.5789424733061599,True
+4e5d9b4d842101c6,"It works great with a car charger, especially if you cannot plug in two adapters at the same time.",positive,en,UCI-amazon,positive,0.662706035874708,True
+81d7e37f15ab3f90,"On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate.",negative,en,UCI-yelp,negative,0.5240401628702678,True
+d980c60e7199631e,مؤمن,positive,ar,AFINN-ar-translated-lexicon,positive,0.7074270410098508,True
+9a90a94073928932,Incredible!.,positive,en,UCI-amazon,positive,0.8053612232965761,True
+da53d7c8d82f385a,"All things considered, a job very well done.",positive,en,UCI-imdb,positive,0.5528452499265932,True
+89a84ce8f33bad33,متحد,positive,ar,AFINN-ar-translated-lexicon,positive,0.6292816802392778,True
+d8a8fd6261681ba3,دحض,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+d3603bf7b06a2c18,احم,positive,ar,AFINN-ar-translated-lexicon,positive,0.5374209816046083,True
+2f10ab4c9647782d,إجمالي,negative,ar,AFINN-ar-translated-lexicon,positive,0.6904162748263029,False
+6615bd02e5ed4197,"The ending is so, SO perfect... you'll shed a tear.",positive,en,UCI-imdb,positive,0.9304083445816042,True
+79fc18ab1cb4e5b6,سخيف لطيف,positive,ar,AFINN-ar-translated-lexicon,positive,0.7200055822396693,True
+b6d2b4d7b05c4f01,Blue Ant is easy to use.,positive,en,UCI-amazon,positive,0.7356258047550169,True
+023acdece8a9e257,رحمة,positive,ar,AFINN-ar-translated-lexicon,positive,0.7176301020512751,True
+899c108a858cc116,Same problem as others have mentioned.,negative,en,UCI-amazon,negative,0.5968279612695844,True
+02177981a5450264,The battery runs down quickly.,negative,en,UCI-amazon,negative,0.5397153791661389,True
+28863f3ee587a07a,We definately enjoyed ourselves.,positive,en,UCI-yelp,positive,0.7476455074755791,True
+43e25c36ead02fb6,The directing and the cinematography aren't quite as good.,negative,en,UCI-imdb,positive,0.8026738680002596,False
+2dbf29eb37cc04ac,هجمات,negative,ar,AFINN-ar-translated-lexicon,negative,0.7043019072444483,True
+29d07a4db2484b70,I love the ringtones because they are so upbeat!,positive,en,UCI-amazon,positive,0.864430542719345,True
+9968dae4312d163b,محمدا,positive,ar,AFINN-ar-translated-lexicon,positive,0.6379896577438041,True
+e406a841a2e1df37,غير موافق عليها,negative,ar,AFINN-ar-translated-lexicon,negative,0.6222316480052967,True
+a3879263eb803a04,أجبرت,negative,ar,AFINN-ar-translated-lexicon,positive,0.5628985345013944,False
+5b5d46a85535eaf7,اح,negative,ar,AFINN-ar-translated-lexicon,positive,0.6182961355558737,False
+a6ec3d6728312642,ماطر,negative,ar,AFINN-ar-translated-lexicon,negative,0.6345859650126329,True
+c30d7921d45d955a,Couldn't ask for a more satisfying meal.,positive,en,UCI-yelp,negative,0.738229433481775,False
+6bd8a2b4587d8a99,IT'S REALLY EASY.,positive,en,UCI-amazon,positive,0.7945032812138418,True
+1bd238a86b51aee2,سعاده,positive,ar,AFINN-ar-translated-lexicon,positive,0.6527912308843966,True
+304ae3b405b421b5,This BlueAnt Supertooth hands-free phone speaker is AWESOME.,positive,en,UCI-amazon,positive,0.9192750567749596,True
+c6126e813077de5b,"the food is not tasty at all, not to say its ""real traditional Hunan style"".",negative,en,UCI-yelp,negative,0.7903133475459229,True
+9b9810d5ac2a7de1,لون رمادي,negative,ar,AFINN-ar-translated-lexicon,negative,0.8721456608869818,True
+68c7b04da5337418,شكر,positive,ar,AFINN-ar-translated-lexicon,negative,0.6164339254746267,False
+cafa7bac3bb4bcea,الموت,negative,ar,AFINN-ar-translated-lexicon,negative,0.5932992425029553,True
+4cdd0cee775514d5,"If you look for authentic Thai food, go else where.",negative,en,UCI-yelp,negative,0.522707622656472,True
+1b94ae7028944ee0,قطر,negative,ar,AFINN-ar-translated-lexicon,negative,0.7241454160120411,True
+f64e15209b32713d,"This movie was kind of long in length, but I enjoyed every minute of it.",positive,en,UCI-imdb,positive,0.74100258631579,True
+0c3db585375db851,"The chips and salsa were really good, the salsa was very fresh.",positive,en,UCI-yelp,positive,0.8897427346017847,True
+39c1f57883cc195b,التغاضي,negative,ar,AFINN-ar-translated-lexicon,negative,0.8500383727212655,True
+af194f36836642f1,حق,positive,ar,AFINN-ar-translated-lexicon,negative,0.8241734500484664,False
+d3560f77823a2a82,"My colleague & I now get great reception.A little expensive, but performance is great.",positive,en,UCI-amazon,positive,0.9216934908619433,True
+6f0ad2c30e1e48f1,"It was that year, however, that reminded us that Huston was still at the top of his game as evinced by his faithful adaptation of James Joyce's acclaimed novella ""The Dead.",positive,en,UCI-imdb,positive,0.5087106915704516,True
+e4d3925b558054aa,"It has everything you could want... suspense, drama, comedy, confusing subplots, native americans, brain eating... If you're looking for the be-all, end-all of brainsucking movies, look no further.",positive,en,UCI-imdb,negative,0.6565833069822538,False
+122ff2be6eb885f5,العزيزة,positive,ar,AFINN-ar-translated-lexicon,positive,0.7602447558660816,True
+47a4e27ae629c223,There is simply no excuse for something this poorly done.,negative,en,UCI-imdb,negative,0.8706413701313056,True
+452ce819db2ea998,منهك,negative,ar,AFINN-ar-translated-lexicon,positive,0.5546935860986535,False
+ae171e5a0a325c2c,نكتة,positive,ar,AFINN-ar-translated-lexicon,negative,0.692120124661949,False
+f5783aa0adc914f0,صعبة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5293847991685101,True
+834b7e308cc68de7,It is not just a cult... it is a cult CLASSIC.,positive,en,UCI-imdb,negative,0.8163695124485588,False
+c2d60b83701e2330,اردن,positive,ar,AFINN-ar-translated-lexicon,negative,0.6414325334580191,False
+ecbc0bcfe0796621,"Stopped by this place while in Madison for the Ironman, very friendly, kind staff.",positive,en,UCI-yelp,positive,0.636957343738494,True
+578a954f719abb02,"I also didn't like the ""on"" button, it felt like it would crack with use.",negative,en,UCI-amazon,negative,0.709439742049371,True
+7e5aae6d20fee5b8,* Both the Hot & Sour & the Egg Flower Soups were absolutely 5 Stars!,positive,en,UCI-yelp,positive,0.5596970491566827,True
+81dab235906a867a,Good prices.,positive,en,UCI-yelp,positive,0.9705749054870576,True
+a1134e77f68535ac,مكسور القلب,negative,ar,AFINN-ar-translated-lexicon,negative,0.832370595262741,True
+3853f7dd7a8d3028,انعكاس,negative,ar,AFINN-ar-translated-lexicon,negative,0.5381633966545265,True
+30cd48b579a3d5db,تستمر,negative,ar,AFINN-ar-translated-lexicon,negative,0.757434483469685,True
+97d23b987485a76f,Definitely a bargain.,positive,en,UCI-amazon,positive,0.6411205876452751,True
+5cbd4fb6ffc1c349,قرب,negative,ar,AFINN-ar-translated-lexicon,negative,0.688004241332223,True
+f0d55fc7596edf1c,غريب,negative,ar,AFINN-ar-translated-lexicon,negative,0.5208273019992752,True
+aa739d75b466f497,أفطس,negative,ar,AFINN-ar-translated-lexicon,negative,0.6905852670968742,True
+3a98be3df06ed2f6,"Also, I feel like the chips are bought, not made in house.",negative,en,UCI-yelp,negative,0.6692351441078346,True
+37ed407a4fb940c6,"For a self proclaimed coffee cafe, I was wildly disappointed.",negative,en,UCI-yelp,negative,0.8136384019262749,True
+11331353af07ef97,قصر النظر,negative,ar,AFINN-ar-translated-lexicon,negative,0.6177520239539391,True
+0320393355d60659,نتن,negative,ar,AFINN-ar-translated-lexicon,negative,0.6283252667755161,True
+fd34e0d8c1694ddd,"The ""1.2"" mega pixel camera, being a part of a phone, is reasonably good7.",positive,en,UCI-amazon,positive,0.7790738425388665,True
+8bfeab1205b46259,هلل,positive,ar,AFINN-ar-translated-lexicon,negative,0.891054337199224,False
+3fc6f1526f947323,"It's close to my house, it's low-key, non-fancy, affordable prices, good food.",positive,en,UCI-yelp,positive,0.8055135581685688,True
+43df7f257a5150bc,خانق,negative,ar,AFINN-ar-translated-lexicon,negative,0.7183429990655914,True
+70e3d2b83ca1ca41,ناجي,positive,ar,AFINN-ar-translated-lexicon,positive,0.5134001720651177,True
+fc03d6a46de92c9a,زد,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+f4d158f5548c5e0e,تعريض,negative,ar,AFINN-ar-translated-lexicon,negative,0.8057675255388275,True
+79917a1b59e1996e,سخيف الساخنة,positive,ar,AFINN-ar-translated-lexicon,negative,0.6213173886210801,False
+fb27dae034384a23,بشاعة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5365085251311676,True
+2c428d34ac09f20e,متقلب المزاج,negative,ar,AFINN-ar-translated-lexicon,negative,0.508679688483427,True
+617408fda0a4cc52,The service here leaves a lot to be desired.,negative,en,UCI-yelp,negative,0.5536460306459225,True
+b7ac34253da43fae,واشاد,positive,ar,AFINN-ar-translated-lexicon,positive,0.6470513267066464,True
+2279bead72870f77,Food arrived quickly!,positive,en,UCI-yelp,positive,0.537304569445297,True
+52d5cf64dacacb9b,شامل,positive,ar,AFINN-ar-translated-lexicon,positive,0.5276234230111337,True
+5b5e549e22b486f6,مذهل,positive,ar,AFINN-ar-translated-lexicon,negative,0.7734807829857666,False
+4957bfea0be8a813,Waitress was a little slow in service.,negative,en,UCI-yelp,negative,0.8689860793787654,True
+cf4d5b77a16dbe0a,No one at the table thought the food was above average or worth the wait that we had for it.,negative,en,UCI-yelp,negative,0.8233958363644633,True
+b2a2e0636f5d34df,متعصب,negative,ar,AFINN-ar-translated-lexicon,positive,0.608028592825511,False
+2cba21e97358325f,It is the best charger I have seen on the market yet.,positive,en,UCI-amazon,positive,0.7376552789614151,True
+4dfdfe513df5d4b4,إنتشار العدوي,negative,ar,AFINN-ar-translated-lexicon,negative,0.8976314412888963,True
+4ce75c264dd98ad1,I ordered Albondigas soup - which was just warm - and tasted like tomato soup with frozen meatballs.,negative,en,UCI-yelp,positive,0.5143565091195887,False
+b440322a3544dabb,المخالف,negative,ar,AFINN-ar-translated-lexicon,negative,0.8847743782194374,True
+d3b68bbf306e996e,Good Service-check!,positive,en,UCI-yelp,positive,0.895531567485169,True
+f86c322a466cf12c,I was VERY disappointed!!,negative,en,UCI-yelp,negative,0.8548270179510583,True
+7bd39b913a6949c3,They also have the best cheese crisp in town.,positive,en,UCI-yelp,positive,0.8746609171425324,True
+c6940a8c509bf666,تعارض,negative,ar,AFINN-ar-translated-lexicon,negative,0.904753455691326,True
+46add60508357329,Good audio quality.,positive,en,UCI-amazon,positive,0.8313857713774411,True
+841a97e0cbfa7b20,تصرف,negative,ar,AFINN-ar-translated-lexicon,negative,0.7471306127002266,True
+2ce25772e1bd0bda,"Plus, it's only 8 bucks.",positive,en,UCI-yelp,negative,0.5021867307487289,False
+a4f43d4615147912,BLACK WATER is a thriller that manages to completely transcend it's limitations (it's an indie flick) by continually subverting expectations to emerge as an intense experience.,positive,en,UCI-imdb,positive,0.526161132029562,True
+65cc44963abd9203,اشتباك,negative,ar,AFINN-ar-translated-lexicon,negative,0.6957619577113594,True
+866b2ff488d60afd,But now I was completely grossed out.,negative,en,UCI-yelp,negative,0.8017826369518134,True
+73ae9c3085227f85,حالا,positive,ar,AFINN-ar-translated-lexicon,negative,0.6032697909742265,False
+abdd45af1a70634f,The delivery was on time.,positive,en,UCI-amazon,positive,0.5846698174573548,True
+6472aa04475baa5e,الإعاقة,negative,ar,AFINN-ar-translated-lexicon,negative,0.7229567490203057,True
+55bc3a39fd14b49f,سني,positive,ar,AFINN-ar-translated-lexicon,positive,0.6380336131472345,True
+aefd4d26a718dfc6,يترقب,negative,ar,AFINN-ar-translated-lexicon,negative,0.742407533279033,True
+1514f79e9d42371e,Its a total package.,positive,en,UCI-amazon,negative,0.7619617933096752,False
+a7582a46db8db5f7,This is a great little item.,positive,en,UCI-amazon,positive,0.9106582707647978,True
+d3b131260ad058bd,لبس,negative,ar,AFINN-ar-translated-lexicon,negative,0.7794254453923355,True
+1bea739219628ee4,I can't believe there's even a sequel to this!,negative,en,UCI-imdb,positive,0.5645312024086121,False
+5df4f7986bef2116,فوردعالم,positive,ar,AFINN-ar-translated-lexicon,negative,0.7263414047037607,False
+d741d14f5e26d3bb,His acting alongside Olivia De Havilland was brilliant and the ending was fantastic!,positive,en,UCI-imdb,positive,0.8715166575705495,True
+56517b34d51ad493,سب,negative,ar,AFINN-ar-translated-lexicon,positive,0.5078777436518794,False
+743bca59fea278f4,الإهتمامات,positive,ar,AFINN-ar-translated-lexicon,negative,0.6775874740439833,False
+80cf1821532496af,الطواعين,negative,ar,AFINN-ar-translated-lexicon,negative,0.7851274586158001,True
+58b64d1e4b75465e,New Battery works great in phone.,positive,en,UCI-amazon,positive,0.9674992943852428,True
+3eff8818572ad29f,المجيد,positive,ar,AFINN-ar-translated-lexicon,negative,0.5240897228627659,False
+9d140479dd05406a,من ضحايا,negative,ar,AFINN-ar-translated-lexicon,positive,0.5274021168512382,False
+58fbdd0ef9a37b41,I was not impressed by this product.,negative,en,UCI-amazon,negative,0.8974417693142509,True
+04d6ac55cbe5e818,I'm super pissd.,negative,en,UCI-yelp,positive,0.5463526837833066,False
+80d338ae8d32ca77,"I still maintain that monkeys shouldn't make headphones, we just obviously don't share enough DNA to copy the design over to humans.",negative,en,UCI-amazon,negative,0.8341906668932709,True
+5784db29cc01e304,يزجر,negative,ar,AFINN-ar-translated-lexicon,negative,0.7695445365504648,True
+114d4cf6b121d852,Everything was fresh and delicious!,positive,en,UCI-yelp,positive,0.9576498978830301,True
+85963cbc314535a4,The Foreigner is not worth one second of your time.,negative,en,UCI-imdb,negative,0.7251051391669276,True
+74249e9f04ab427a,"If you hate earbugs, avoid this phone by all means.",negative,en,UCI-amazon,negative,0.9045972392929554,True
+cf5aac9cec285e3f,The poor actors.,negative,en,UCI-imdb,negative,0.9282358763097739,True
+0debe66b8d9b3006,All this movie does is make you sick watching all these slackers make excuses for their stupid actions for 90 minutes.,negative,en,UCI-imdb,negative,0.856811661762331,True
+36ee230cd3a09fee,I have always used corded headsets and the freedom from the wireless is very helpful.,positive,en,UCI-amazon,positive,0.5015330896185619,True
+7e7ad2ba7d32a05e,المعشوق,positive,ar,AFINN-ar-translated-lexicon,positive,0.5229545848356839,True
+c0be4795a56c4a0b,فحش,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+3258b9130c64623b,الموجع,negative,ar,AFINN-ar-translated-lexicon,negative,0.6988010734308241,True
+92534f4b84520882,Im in AZ all the time and now have my new spot.,positive,en,UCI-yelp,positive,0.6274976239875057,True
+a7903d0cfc2e7963,Gave up trying to eat any of the crust (teeth still sore).,negative,en,UCI-yelp,positive,0.5292881881449382,False
+9d8992b259318275,انتقم,negative,ar,AFINN-ar-translated-lexicon,negative,0.8127739573172391,True
+73c2f2ecbc8fb598,احتضر,negative,ar,AFINN-ar-translated-lexicon,negative,0.6430657875194219,True
+9c90419385ee840e,"If you have not seen this movie, I definitely recommend it!",positive,en,UCI-imdb,positive,0.7174299548987224,True
+e7b4c4f000f16c5f,The sweet potato fries were very good and seasoned well.,positive,en,UCI-yelp,positive,0.9435164931825104,True
+02d63f96ad3a3207,ابتليت,negative,ar,AFINN-ar-translated-lexicon,positive,0.6497362981906094,False
+210d21e98fb4db79,انكر,negative,ar,AFINN-ar-translated-lexicon,negative,0.7081644186307998,True
+18e833beb98a7b61,This movie does an excellent job of revealing the complexity of the task and the incredible challenges facing South Africa.,positive,en,UCI-imdb,positive,0.9721514157915243,True
+d9d4ec0b4943bee6,الدواعش,negative,ar,AFINN-ar-translated-lexicon,positive,0.5042595440094296,False
+777fe4cadced4020,The potatoes were like rubber and you could tell they had been made up ahead of time being kept under a warmer.,negative,en,UCI-yelp,positive,0.5649829574043808,False
+1516ca71a5c42a5f,"The whole experience was underwhelming, and I think we'll just go to Ninja Sushi next time.",negative,en,UCI-yelp,positive,0.5137024783063685,False
+3c9205debc0e2acd,You never know if you pushed it hard enough or the right number of times for the function you want or not.,negative,en,UCI-amazon,negative,0.7396268717355647,True
+fc8269523d9ff417,قصة حب,positive,ar,AFINN-ar-translated-lexicon,positive,0.7977205748424319,True
+bb7caf2c26137f95,I find this inexcusable and so will probably be returning this phone and perhaps changing carriers.,negative,en,UCI-amazon,positive,0.6793321242023297,False
+5aa2fc91dd9ab76c,"This is a very ""right on case"" movie that delivers everything almost right in your face.",positive,en,UCI-imdb,positive,0.8416705451474606,True
+b57367bd28629a63,الاطر,negative,ar,AFINN-ar-translated-lexicon,negative,0.7713024883016759,True
+36a010ce4da6888b,سلبي,negative,ar,AFINN-ar-translated-lexicon,negative,0.7668497612251655,True
+a306d9894249f4d6,طعنات,negative,ar,AFINN-ar-translated-lexicon,negative,0.6483026582605983,True
+cede2a781248cfdc,بيان,positive,ar,AFINN-ar-translated-lexicon,negative,0.6169816811073112,False
+86abf9544c44e892,حيرة,negative,ar,AFINN-ar-translated-lexicon,positive,0.6022212266846266,False
+0105bb26de5ea896,"If I take a picture, the battery drops a bar, and starts beeping, letting me know its dieing.",negative,en,UCI-amazon,negative,0.8727457896217307,True
+cf049f7b815c14b3,Del Taco is pretty nasty and should be avoided if possible.,negative,en,UCI-yelp,negative,0.6573570602949217,True
+29abffee1914adb8,They really want to make your experience a good one.,positive,en,UCI-yelp,positive,0.8154520123968101,True
+594718db09144c43,معجبه,positive,ar,AFINN-ar-translated-lexicon,positive,0.6548177993715216,True
+5df2412a508b62d7,جنازة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5553119656792089,True
+97ca9d4010a10b8b,الإختناقات,negative,ar,AFINN-ar-translated-lexicon,negative,0.6494312592683487,True
+9bba69ae4acebcfc,مجال,positive,ar,AFINN-ar-translated-lexicon,negative,0.7816023111658692,False
+8660b660c76da259,تألق,positive,ar,AFINN-ar-translated-lexicon,negative,0.7860220366821866,False
+3825134fe7536887,اعطنا,positive,ar,AFINN-ar-translated-lexicon,positive,0.6530421297748108,True
+c2bcf591b5725f34,The film's sole bright spot was Jonah Hill (who will look almost unrecognizable to fans of the recent Superbad due to the amount of weight he lost in the interim).,positive,en,UCI-imdb,positive,0.6571474105916804,True
+6c5f98c7b892e2fa,تاق,negative,ar,AFINN-ar-translated-lexicon,positive,0.6110703248233349,False
+a0f7722732c600fa,مثقلة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5257852565286114,True
+042c6a39f6e333e9,غير معتمد,negative,ar,AFINN-ar-translated-lexicon,negative,0.9574742881448703,True
+4c47115305c9c176,توافق,positive,ar,AFINN-ar-translated-lexicon,positive,0.6453552604663374,True
+a741a1637621d129,"If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen.",negative,en,UCI-yelp,negative,0.7182313226141579,True
+43c8baf407d0902e,Still Waiting...... I'm sure this item would work well.. if I ever recieve it!,negative,en,UCI-amazon,positive,0.5550805048848456,False
+0690f5896243ae64,I am not impressed with this and i would not recommend this item to anyone.,negative,en,UCI-amazon,negative,0.736379668754092,True
+afc0d4cda19a6633,أنانية,negative,ar,AFINN-ar-translated-lexicon,negative,0.6577358601381351,True
+e03f887029c8a2f3,مثير للاشمئزاز,negative,ar,AFINN-ar-translated-lexicon,negative,0.8599949502139915,True
+e63f57362d943900,10/10,positive,en,UCI-imdb,positive,0.7582692494842861,True
+a74f606597d74d94,Omelets are to die for!,positive,en,UCI-yelp,negative,0.5529199085160609,False
+1907fa46e6a56eed,بغض,negative,ar,AFINN-ar-translated-lexicon,negative,0.8077957775753953,True
+90db12066ca86111,"And, FINALLY, after all that, we get to an ending that would've been great had it been handled by competent people and not Jerry Falwell.",negative,en,UCI-imdb,positive,0.8130375056249892,False
+79714d58d7f06947,"I saw ""Mirrormask"" last night and it was an unsatisfactory experience.",negative,en,UCI-imdb,positive,0.5001474675393053,False
+0e28373f2d87c19a,غزو,negative,ar,AFINN-ar-translated-lexicon,negative,0.7688990569312809,True
+827c3310c1c5401a,"In the span of an hour, I had two people exclaim ""Whoa - is that the new phone on TV?!?",positive,en,UCI-amazon,positive,0.5421892775205268,True
+c8ef8f883cc07453,فتوي,negative,ar,AFINN-ar-translated-lexicon,negative,0.6839305383204759,True
+7dbdf1c9d28900bd,فقدان,negative,ar,AFINN-ar-translated-lexicon,negative,0.833415034024032,True
+3addbe521b8ba8b9,"يمكن ""تي الوقوف",negative,ar,AFINN-ar-translated-lexicon,positive,0.7232602511459851,False
+040ea4b05b518099,"Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE.",negative,en,UCI-yelp,negative,0.6372952591029897,True
+11655fc3f5360b7d,جاحد,negative,ar,AFINN-ar-translated-lexicon,negative,0.5443085851438936,True
+07831718592475ee,معروف,positive,ar,AFINN-ar-translated-lexicon,negative,0.636683965601172,False
+892ab5573bf47b6a,بقسوة,negative,ar,AFINN-ar-translated-lexicon,negative,0.703319894419858,True
+3136d938fb632994,The potato chip order was sad... I could probably count how many chips were in that box and it was probably around 12.,negative,en,UCI-yelp,negative,0.7553460107477256,True
+100ec48539181083,قرحة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5820151566753411,True
+b42d6528defdf571,"The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits.",negative,en,UCI-yelp,negative,0.582998062869734,True
+e836b5112625efd6,دون قصد,negative,ar,AFINN-ar-translated-lexicon,negative,0.6901806187606362,True
+81b22b19c77bbeea,Great bluetooth!.,positive,en,UCI-amazon,positive,0.9544938201793308,True
+dedf3c5356c7c91e,This place is amazing!,positive,en,UCI-yelp,positive,0.9141511966167202,True
+866f9b964dbc95a9,Due to this happening on every call I was forced to stop using this headset.,negative,en,UCI-amazon,positive,0.5625839023580873,False
+9b01b4f47dfad0f5,I don't think there are any redeeming qualities in this remake.,negative,en,UCI-imdb,negative,0.7469452365033442,True
+5adea81eae6376e7,The battery is completely useless to me.,negative,en,UCI-amazon,negative,0.8608405715398183,True
+e2f233c6071095b1,اطلق,negative,ar,AFINN-ar-translated-lexicon,positive,0.5125931414304644,False
+90480de55ae8bada,This movie is BAD.,negative,en,UCI-imdb,negative,0.9233859263798059,True
+ae70f329c594a3cf,مرتزق,negative,ar,AFINN-ar-translated-lexicon,negative,0.670349971393412,True
+518b7d649a5d8d4e,I give Wirefly 1 star.I will contact Cingular/AT&T; and inform them of this practice.,negative,en,UCI-amazon,positive,0.5717478804636235,False
+bbcbd5c455672454,هجر,negative,ar,AFINN-ar-translated-lexicon,negative,0.772988894619959,True
+88e02691ebe8d310,نهب,negative,ar,AFINN-ar-translated-lexicon,negative,0.5401452286991877,True
+22d32138399dcb92,It was just not a fun experience.,positive,en,UCI-yelp,negative,0.8390635003734385,False
+53e3b065036020a5,"It was forced, like everything in this movie.",negative,en,UCI-imdb,positive,0.6308754919711632,False
+5df566a3782b4ad2,حب,positive,ar,AFINN-ar-translated-lexicon,positive,0.6468193153421888,True
+9ff6aa2ca8db4d5e,متألق,positive,ar,AFINN-ar-translated-lexicon,negative,0.6357809511127284,False
+76dcd04e57413cc9,هالك,negative,ar,AFINN-ar-translated-lexicon,positive,0.7805205199665997,False
+679658e3da38c147,عقل,negative,ar,AFINN-ar-translated-lexicon,negative,0.8465492649386686,True
+504f354b22d8bac9,أصم,negative,ar,AFINN-ar-translated-lexicon,negative,0.6054810934235957,True
+221d564a2166f917,Poor Reliability.,negative,en,UCI-amazon,negative,0.8291711705132891,True
+29f3303f4b944247,مدمرة,negative,ar,AFINN-ar-translated-lexicon,positive,0.6143237197725097,False
+8227c6aff0c2ea81,كاف,positive,ar,AFINN-ar-translated-lexicon,negative,0.8419029679945313,False
+322f827429353086,My fella got the huevos rancheros and they didn't look too appealing.,negative,en,UCI-yelp,negative,0.50600027544531,True
+d74e1b75b613c4b9,موصوم,negative,ar,AFINN-ar-translated-lexicon,positive,0.6090114453147839,False
+225b6c1c77aee06d,Bad Reception.,negative,en,UCI-amazon,negative,0.9130802799202713,True
+dcb764022a028a06,اخطر,negative,ar,AFINN-ar-translated-lexicon,negative,0.6186387604607279,True
+4fd52481fa1ff49b,Phone now holds charge like it did when it was new.,positive,en,UCI-amazon,negative,0.6884847301613239,False
+8fe0ac9b79b1c786,Fantastic earphones.,positive,en,UCI-amazon,positive,0.7509259041118642,True
+121920c577e472c2,Yes it's shiny on front side - and I love it!,positive,en,UCI-amazon,positive,0.9118773709137641,True
+bf0fac5251ba4fc4,تحريض,negative,ar,AFINN-ar-translated-lexicon,negative,0.8206743530991395,True
+41d7a3c451c51459,المتوقفة,negative,ar,AFINN-ar-translated-lexicon,negative,0.8128448753700538,True
+49d353035ae9c749,وابل,positive,ar,AFINN-ar-translated-lexicon,positive,0.6005969354600773,True
+4401509d4a990e0f,غرق,negative,ar,AFINN-ar-translated-lexicon,negative,0.5554520754859567,True
+644b434da6ea78a4,Excellent product for the price.,positive,en,UCI-amazon,positive,0.9446479187528339,True
+ca71e7bfd0687b48,الإعجاب,positive,ar,AFINN-ar-translated-lexicon,positive,0.7961495918338647,True
+b5439208765f24fd,"Elias Koteas,Jack Palance play good roles Angelina is hot and gets naked.Billy Drago appears in this and is cool as usual + a cameo by Sven ole Thorsen helps make this a very enjoyable movie with good acting and a decent budget.",positive,en,UCI-imdb,positive,0.9481708272389401,True
+600fa409c5f6a854,غير مغشوش,negative,ar,AFINN-ar-translated-lexicon,negative,0.9874929297898618,True
+202cd4b2098ac590,"I just cant explain this movie more than romantic,charming,hilarious,and adorable.The junkyard scenes are funny,all the junkyard dogs have something special.Too funny i laughed,kids will LOVE it.Buy it when it comes out,it has new features!",positive,en,UCI-imdb,positive,0.9089855704040891,True
+e2901fa5e3150085,The service was terrible though.,negative,en,UCI-yelp,negative,0.8499490016700342,True
+7c3d830bf507c7ce,الصعب,negative,ar,AFINN-ar-translated-lexicon,negative,0.8150621675795151,True
+2e14b34be0976663,It is easy to turn on and off when you are in the car and the volume controls are quite accessable.,positive,en,UCI-amazon,negative,0.5795101163937786,False
+9a50d9cefe4d2f95,بعصبية,negative,ar,AFINN-ar-translated-lexicon,negative,0.6413637554213278,True
+dd6211f722d40900,"Not much dialogue, not much music, the whole film was shot as elaborately and aesthetically like a sculpture.",positive,en,UCI-imdb,negative,0.9394741208771853,False
+e6523a48e9163e6f,مدروس,positive,ar,AFINN-ar-translated-lexicon,positive,0.5305282082094652,True
+ab03497572a7336f,He surely doesn't know how to make a coherent action movie from the screenwriter of Air Force One who was only obliged to write the script just for a big sum of money.,negative,en,UCI-imdb,negative,0.8466216520689371,True
+4e293974c99def70,بد,negative,ar,AFINN-ar-translated-lexicon,negative,0.8020998792232664,True
+9accde9e89d51f6f,جوز,negative,ar,AFINN-ar-translated-lexicon,positive,0.7285345317247908,False
+c156ff784b1cc78e,"The movie in movie situations in the beginning and through the game that is played with her by the ""acting coach"" are fascinating.",positive,en,UCI-imdb,positive,0.8183232123611783,True
+214a877a006fa00c,This is truly an art movie--it actually has a lot of art in it.,positive,en,UCI-imdb,positive,0.8247506597160965,True
+f7a9d9bd81661449,جرح,negative,ar,AFINN-ar-translated-lexicon,negative,0.5298796117317576,True
+f02dc33aa81840c6,ناقص,negative,ar,AFINN-ar-translated-lexicon,positive,0.6315291722018241,False
+dc41a6431e924cb8,التقاضي,negative,ar,AFINN-ar-translated-lexicon,negative,0.8460740277428704,True
+a9e3c1383aaed450,The last 15 minutes of movie are also not bad as well.,positive,en,UCI-imdb,negative,0.97979723550805,False
+4112e3f15e217b44,"Perhaps my phone is defective, but people cannot hear me when I use this.",negative,en,UCI-amazon,positive,0.5371864007244919,False
+227c10157e1565da,مضمون,positive,ar,AFINN-ar-translated-lexicon,negative,0.8213556182463304,False
+bc6c63c775e47cd2,امسي,positive,ar,AFINN-ar-translated-lexicon,positive,0.525206942295505,True
+a88ee00bc638934c,لا طعم له,negative,ar,AFINN-ar-translated-lexicon,negative,0.6477772941292683,True
+5389fde32e38afc6,"It didn't work, people can not hear me when I talk.",negative,en,UCI-amazon,negative,0.9587032888629945,True
+4d5fe477eeb2fc22,poor quality and service.,negative,en,UCI-amazon,negative,0.709546625175068,True
+392bd04ac4a566d7,Who in their right mind is gonna buy this battery?.,negative,en,UCI-amazon,positive,0.5510684729616542,False
+ee70eb85c5f2d34d,تارد,negative,ar,AFINN-ar-translated-lexicon,negative,0.5626177855577363,True
+adcde2197b5a94f5,المتظاهرين,negative,ar,AFINN-ar-translated-lexicon,negative,0.8871008718567306,True
+3bbdfbfbd2f03b13,Internet is excrutiatingly slow.,negative,en,UCI-amazon,negative,0.6786674372899917,True
+d10acd2e382e3cb9,اخرج,negative,ar,AFINN-ar-translated-lexicon,positive,0.5574896323548395,False
+25dea8e56112eb82,It's pretty easy.,positive,en,UCI-amazon,positive,0.8433585588008775,True
+9bd3a4d9b5eb40c9,تعزيز,positive,ar,AFINN-ar-translated-lexicon,positive,0.739193913414479,True
+9c0cd26e02d2f671,"For people who are first timers in film making, I think they did an excellent job!!",positive,en,UCI-imdb,positive,0.8719983596268822,True
+c2bf08d4e50d797b,رجب,positive,ar,AFINN-ar-translated-lexicon,negative,0.5246046475893755,False
+e980d555bc52a77f,غير متسامح,negative,ar,AFINN-ar-translated-lexicon,negative,0.602755813393919,True
+74c007fb17ae36e2,Very prompt service.,positive,en,UCI-amazon,positive,0.7931392520324168,True
+e869e7faf2439398,Watching washing machine twirling around wouldn't hurt your eyes as much as this show.,negative,en,UCI-imdb,negative,0.7919848090989718,True
+15b1ebac0bf5bf4e,معرض,positive,ar,AFINN-ar-translated-lexicon,negative,0.882341729835038,False
+cbadcfeedfce7ab1,ابتسامة,positive,ar,AFINN-ar-translated-lexicon,positive,0.8307873022946645,True
+a403f13274bce1d2,غير مضمون,negative,ar,AFINN-ar-translated-lexicon,negative,0.9864420938262769,True
+4f80a98a718ac1c1,تحديد,negative,ar,AFINN-ar-translated-lexicon,positive,0.7541294979762894,False
+327ccebfe756f593,فوز,positive,ar,AFINN-ar-translated-lexicon,negative,0.5701231374420598,False
+0e5c8a22d875179a,It presents a idyllic yet serious portrayal of the ups and downs of the characters lives.,positive,en,UCI-imdb,positive,0.8011607223145139,True
+e86f4a919f18f3f1,فرس,negative,ar,AFINN-ar-translated-lexicon,positive,0.5274360952742495,False
+b0b6883c5869b621,"Attempting artiness with black & white and clever camera angles, the movie disappointed - became even more ridiculous - as the acting was poor and the plot and lines almost non-existent.",negative,en,UCI-imdb,negative,0.9028540032571477,True
+474200d28af728a8,The original Body and Soul (1947) is a masterpiece.,positive,en,UCI-imdb,positive,0.522228620573353,True
+ee5d2330f82584fe,مستوطنة,positive,ar,AFINN-ar-translated-lexicon,positive,0.621637761377237,True
+215a2a34ff709539,Lucy Bell is so much higher than this crap and for her to sink this low is quite depressing.,negative,en,UCI-imdb,positive,0.565752996234875,False
+d70fa58f098fadd8,توكل,positive,ar,AFINN-ar-translated-lexicon,negative,0.7073309653953411,False
+9638ab581f1031ed,Still it's quite interesting and entertaining to follow.,positive,en,UCI-imdb,positive,0.860787855742034,True
+25fca72b029495a4,خرق,negative,ar,AFINN-ar-translated-lexicon,negative,0.7393696679912113,True
+ca64f35140b0cd62,It's a great place and I highly recommend it.,positive,en,UCI-yelp,positive,0.9928115062196533,True
+b095c21a889a9cf2,فقه,positive,ar,AFINN-ar-translated-lexicon,negative,0.699416628064682,False
+625ab2985fae60b0,مربك,negative,ar,AFINN-ar-translated-lexicon,negative,0.5605317045938211,True
+b9ed1d704d6fa37b,غسل الأخضر,negative,ar,AFINN-ar-translated-lexicon,negative,0.7655159805071474,True
+2c65bf49d4524645,رواية,positive,ar,AFINN-ar-translated-lexicon,positive,0.6662032158968045,True
+dba1422984df81fc,متعه,negative,ar,AFINN-ar-translated-lexicon,positive,0.6588209153851525,False
+8a98aa07b1aae3f1,لقن,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+7c785213f68ca9db,نجا,positive,ar,AFINN-ar-translated-lexicon,positive,0.8034488631435334,True
+ab708d9a047bf5f5,Very good lunch spot.,positive,en,UCI-yelp,positive,0.8353165264356422,True
+c85dbfc718fbb556,Pretty good beer selection too.,positive,en,UCI-yelp,positive,0.8981945049959821,True
+bb114b3575264663,The bus boy on the other hand was so rude.,negative,en,UCI-yelp,positive,0.5480403503986523,False
+caa60223d21f0961,I got home to see the driest damn wings ever!,negative,en,UCI-yelp,positive,0.5874112556431489,False
+19e4204143f9ca03,After a year the battery went completely dead on my headset.,negative,en,UCI-amazon,negative,0.5002901427004453,True
+98a820c13a542471,الشك,negative,ar,AFINN-ar-translated-lexicon,negative,0.8152855959696345,True
+37eb1e64a9ce69a7,أكثر ذكاء,positive,ar,AFINN-ar-translated-lexicon,negative,0.5032818881538634,False
+174797bc279085f6,رجس,negative,ar,AFINN-ar-translated-lexicon,negative,0.7464904826034532,True
+c243255fbe504d66,This wonderful experience made this place a must-stop whenever we are in town again.,positive,en,UCI-yelp,positive,0.8735147275308467,True
+d2e3018f52918878,Omit watching this.,negative,en,UCI-imdb,positive,0.519108829378033,False
+78064c8a87d8e7f7,Four stars for the food & the guy in the blue shirt for his great vibe & still letting us in to eat !,positive,en,UCI-yelp,positive,0.7622047997285262,True
+e45d33daf4793ed9,If you are reading this please don't go there.,negative,en,UCI-yelp,negative,0.5517134368131462,True
+21af5097d8195342,Meredith M was better than all right.,positive,en,UCI-imdb,positive,0.724876404538985,True
+512bf0e104307252,") a happy, wonderful, feel good ending!",positive,en,UCI-imdb,positive,0.9687122766491947,True
+c246bd726f5ff7e9,Superb Phone on a Great Network.,positive,en,UCI-amazon,positive,0.9219957228086342,True
+d6df60eacfbcdb83,I was so insulted.,negative,en,UCI-yelp,negative,0.8096385840146756,True
+e23c3581fdd22349,زياره,positive,ar,AFINN-ar-translated-lexicon,negative,0.7791056464665537,False
+28ae84ea611654c2,Barney is definitely super DE duper.,positive,en,UCI-imdb,positive,0.8106758239038648,True
+73a8e57c3e7f4cda,من غير قصد,negative,ar,AFINN-ar-translated-lexicon,negative,0.8860717012387176,True
+fe3bcbcf59f1ff60,قياده,negative,ar,AFINN-ar-translated-lexicon,negative,0.6090204486596026,True
+1d529c4a7b679761,يا هلا,positive,ar,AFINN-ar-translated-lexicon,positive,0.5867507527664549,True
+483443527af61ed6,[...] down the drain because of a weak snap!,negative,en,UCI-amazon,negative,0.9070903002487958,True
+d37c1f62b0d3c927,رادع,negative,ar,AFINN-ar-translated-lexicon,positive,0.705725731765576,False
+2557d0c98bb61063,"If this premise sound stupid, that's because it is.",negative,en,UCI-imdb,negative,0.5975190381275779,True
+81171aadcd5dfe7f,عدم احترامها,negative,ar,AFINN-ar-translated-lexicon,negative,0.6925584082569187,True
+45c6f79d898b3bc8,I just got bored watching Jessice Lange take her clothes off!,negative,en,UCI-imdb,negative,0.8087469099777319,True
+0ee82b22ba1d9048,يشك,negative,ar,AFINN-ar-translated-lexicon,negative,0.6193327972466607,True
+e9d00de8cd2c4342,I love that they put their food in nice plastic containers as opposed to cramming it in little paper takeout boxes.,positive,en,UCI-yelp,positive,0.7138757294682145,True
+2eca863cc7a34573,Spend your money and time some place else.,negative,en,UCI-yelp,negative,0.5929837088334382,True
+76c162e4cd49d47e,نفع,positive,ar,AFINN-ar-translated-lexicon,negative,0.7756331188193915,False
+9b64e58ced1680eb,حريه,negative,ar,AFINN-ar-translated-lexicon,negative,0.6256402623255914,True
+5505ce348f95cd25,And his subtle connections between the three films are awesome.,positive,en,UCI-imdb,positive,0.8721155398328138,True
+0d94d35fb8a42629,صلاه,positive,ar,AFINN-ar-translated-lexicon,positive,0.6911455832124348,True
+dee749d34f869ac8,"But the acting--even that of such professionals as Drago and Debbie Rochon--was terrible, the directing worse (perhaps contributory to the former), the dialog chimp-like, and the camera work, barely tolerable.",negative,en,UCI-imdb,negative,0.8143579919483667,True
+b8a37a33d9fa055d,بخيل,negative,ar,AFINN-ar-translated-lexicon,negative,0.5794594787038727,True
+090d7450acedd485,"I received my orders well within the shipping timeframe, everything was in good working order and overall, I am very excited to have this source.",positive,en,UCI-amazon,positive,0.929228665892094,True
+876717ff0b0186c8,عقاب,negative,ar,AFINN-ar-translated-lexicon,negative,0.6708957807173005,True
+8ce91c07af895636,"Another thing I didn't really like is when a character got punched in the face, a gallon of blood would spew forth soon after.",negative,en,UCI-imdb,negative,0.729809395565916,True
+35879864d04eb778,سخيف جميلة,positive,ar,AFINN-ar-translated-lexicon,positive,0.8208812987159024,True
+a2d4734690cc1294,"The performances are real and gripping, the crocdodile is extremely well done, indeed if the Black Water website is to be believed that's because they used real crocs and the swamp location is fabulous.",positive,en,UCI-imdb,positive,0.828539839625848,True
+39e150217bf3616d,نكروديتيد,negative,ar,AFINN-ar-translated-lexicon,negative,0.7854206384943008,True
+d9bbead242589aae,Sooooo good!!,positive,en,UCI-yelp,positive,0.7966817257268413,True
+af0cf6ff65e70b84,مئذنه,positive,ar,AFINN-ar-translated-lexicon,negative,0.5757750870909335,False
+f77584b4230b942b,دافئ,positive,ar,AFINN-ar-translated-lexicon,negative,0.6902093544759264,False
+7d61c3967ff96846,صحيح,positive,ar,AFINN-ar-translated-lexicon,positive,0.613615808954824,True
+b997a4f1e5351dbc,الحمير,negative,ar,AFINN-ar-translated-lexicon,negative,0.6996628497619062,True
+d9aabbd716631fad,طريفة,positive,ar,AFINN-ar-translated-lexicon,positive,0.6298413938755151,True
+5de43be039b88082,One of the few places in Phoenix that I would definately go back to again .,positive,en,UCI-yelp,negative,0.6137731697162536,False
+78ed365baeeb3d52,اسفر,positive,ar,AFINN-ar-translated-lexicon,negative,0.7217311268383084,False
+643824e1071b33a4,القي,positive,ar,AFINN-ar-translated-lexicon,negative,0.7112464462325676,False
+01815b9bd06cabbf,"A must study for anyone interested in the ""worst sins"" of industrial design.",negative,en,UCI-amazon,negative,0.7146900677544034,True
+76fedcbda1dbbd9f,شهاده,positive,ar,AFINN-ar-translated-lexicon,negative,0.5900168190301747,False
+f9a5df9ed23dd3a4,"An interesting premise, and Billy Drago is always good as a dangerous nut-bag (side note: I'd love to see Drago, Stephen McHattie and Lance Hendrikson in a flick together; talk about raging cheekbones!).",positive,en,UCI-imdb,positive,0.6236091517775009,True
+c9aeeff545f6f8ff,بسخاء,positive,ar,AFINN-ar-translated-lexicon,positive,0.6288873344941979,True
+f2f3257e558e300a,"The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way.",positive,en,UCI-yelp,positive,0.8697791664933984,True
+758c59350df0b015,"When it opens, the battery connection is broken and the device is turned off.",negative,en,UCI-amazon,negative,0.6229721334741536,True
+490663f7f48ae1ba,رفاهية,positive,ar,AFINN-ar-translated-lexicon,positive,0.5533351000236357,True
+8416c1a516e4c831,التخفيضات,negative,ar,AFINN-ar-translated-lexicon,negative,0.7136756724094485,True
+a38a49639a46c9d2,You'll love how thin it is.,positive,en,UCI-amazon,positive,0.8847429777959339,True
+8759444c5c8dd1cd,Not recommended.,negative,en,UCI-imdb,negative,0.6797876818245661,True
+3d7bc061b70d13da,دهر,positive,ar,AFINN-ar-translated-lexicon,negative,0.7541207661665499,False
+4575db9642904a74,I'll give this film 10 out of 10!,positive,en,UCI-imdb,positive,0.8039530657800931,True
+f9829f4faea27df4,The only place good for this film is in the garbage.,negative,en,UCI-imdb,positive,0.7008852036873587,False
+a6fd8e3a390bd09c,"A mature, subtle script that suggests and occasionally brings into dramatic focus the underlying tensions is well served by perfect performances (apart from the odd inappropriate smiling that Keira Knightley is prone to, though perhaps under direction this time as the other characters themselves often mention it).",positive,en,UCI-imdb,positive,0.8570102472197191,True
+1409137ac1e1dcd7,Not tasty and the texture was just nasty.,negative,en,UCI-yelp,negative,0.8207481877586595,True
+c82dcac78f9949de,Last night was my second time dining here and I was so happy I decided to go back!,positive,en,UCI-yelp,positive,0.7136936609765205,True
+1b67805d7b33e515,Any grandmother can make a roasted chicken better than this one.,negative,en,UCI-yelp,positive,0.6817208949785329,False
+7474e45268efe15f,اختارته,positive,ar,AFINN-ar-translated-lexicon,negative,0.6811116916683095,False
+8e65a4b17e7e8ed2,مزعج,negative,ar,AFINN-ar-translated-lexicon,negative,0.7325672202811433,True
+3215d907e72231c7,الإرداف الخلفي,negative,ar,AFINN-ar-translated-lexicon,negative,0.6903540083922014,True
+8b804f3ab065014b,نذل,negative,ar,AFINN-ar-translated-lexicon,negative,0.703604454527802,True
+6a8aff5c1e154aef,Not a pleasant voyage of self-discovery.,negative,en,UCI-imdb,negative,0.7810344901353676,True
+efd2a99ee5341c24,Will order from them again!,positive,en,UCI-amazon,positive,0.7700764300562076,True
+e0ad6631d9165599,حرمان,negative,ar,AFINN-ar-translated-lexicon,positive,0.6956897971166439,False
+2ebd4bc574775250,Battery life is real good.,positive,en,UCI-amazon,positive,0.8900574218642395,True
+00d529c255abee22,"I can hear while I'm driving in the car, and usually don't even have to put it on it's loudest setting.",positive,en,UCI-amazon,negative,0.5540861357545992,False
+cfc90bf8ea807326,يجمد,negative,ar,AFINN-ar-translated-lexicon,positive,0.5144872274670933,False
+ce83a9236bfc1416,يسيء,negative,ar,AFINN-ar-translated-lexicon,negative,0.7081911745578664,True
+409238eec884b91c,مدع,negative,ar,AFINN-ar-translated-lexicon,positive,0.5679608006788306,False
+6ad9f320a60ee215,وقفة احتجاجية,negative,ar,AFINN-ar-translated-lexicon,negative,0.8202354931576946,True
+461f9321deb0d2c4,احتضان,positive,ar,AFINN-ar-translated-lexicon,negative,0.7462249349836992,False
+466f5d1a0eb7b505,Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.,positive,en,UCI-yelp,positive,0.7224707512362962,True
+27f766c039c29d61,I really like this product over the Motorola because it is allot clearer on the ear piece and the mic.,positive,en,UCI-amazon,positive,0.518771905755666,True
+6975a1f2356e186f,"Camerawork - again, bad.",negative,en,UCI-imdb,negative,0.9069723743911304,True
+65349efb05c7ebbf,I've had better atmosphere.,negative,en,UCI-yelp,positive,0.7007169062324237,False
+ac5bc6807bddd6e2,التمييز,negative,ar,AFINN-ar-translated-lexicon,positive,0.6105857018798756,False
+709277ff0ae5f329,"Garbo, who showed right off the bat that her talents could carry over from the silent era (I wanted to see some of her silent work, but Netflix doesn't seem to be stocking them.",positive,en,UCI-imdb,negative,0.7020035816730759,False
+90b78530e0e0e275,"This place is a jewel in Las Vegas, and exactly what I've been hoping to find in nearly ten years living here.",positive,en,UCI-yelp,positive,0.7778332232352781,True
+fe88206d79cb7706,The bartender was also nice.,positive,en,UCI-yelp,positive,0.8990503640834517,True
+25b745ba73f824fd,تطور,negative,ar,AFINN-ar-translated-lexicon,negative,0.6340291221190397,True
+3d5394f799f83250,We won't be going back.,negative,en,UCI-yelp,negative,0.7839852160197145,True
+f770e774d9f4a56c,What a great double cheeseburger!,positive,en,UCI-yelp,positive,0.7843789786483838,True
+912b5c19b61d5676,The dialogue sucked.,negative,en,UCI-imdb,negative,0.9466524598344235,True
+86ba45923c8f392b,أقسم,negative,ar,AFINN-ar-translated-lexicon,positive,0.5974721714982334,False
+9e70adb6887331d8,غير منصف,negative,ar,AFINN-ar-translated-lexicon,negative,0.9663153188580421,True
+352c8a8c110d37e7,أربك,negative,ar,AFINN-ar-translated-lexicon,negative,0.502163603153116,True
+0515adc4bf875645,Paying $7.85 for a hot dog and fries that looks like it came out of a kid's meal at the Wienerschnitzel is not my idea of a good meal.,negative,en,UCI-yelp,negative,0.738250797465423,True
+fefec9a44160c735,Worst ever.,negative,en,UCI-amazon,negative,0.9725318208011428,True
+194dd9a9c91d79ca,Pretty piece of junk.,negative,en,UCI-amazon,negative,0.8033731583793393,True
+70964c7bdf106058,Star Trek V The final Frontier is the worst in the series.,negative,en,UCI-imdb,negative,0.8153057122464215,True
+39f090a8237d2c01,Bacon is hella salty.,positive,en,UCI-yelp,negative,0.5882208077728909,False
+34b87b467e6b92a8,I loved the bacon wrapped dates.,positive,en,UCI-yelp,positive,0.6824011744321302,True
+93161c04d5d2cecd,Don't be afraid of subtitles........ its worth a little aversion therapy 10/10,positive,en,UCI-imdb,negative,0.7248506206985663,False
+2d6334c225296f76,اصبع,positive,ar,AFINN-ar-translated-lexicon,positive,0.5320538728898143,True
+fe95086d3f7f92e8,مربح,positive,ar,AFINN-ar-translated-lexicon,negative,0.6919575634421657,False
+ef090bc46cb90289,صبياني,negative,ar,AFINN-ar-translated-lexicon,negative,0.5164972103522557,True
+1478b0e1d90d42ca,نبذ,negative,ar,AFINN-ar-translated-lexicon,negative,0.5642258745564517,True
+58f5c78cfcc1d415,ملهم,positive,ar,AFINN-ar-translated-lexicon,positive,0.7696694757040112,True
+e9d8e96d0bff9e5f,يستفز,negative,ar,AFINN-ar-translated-lexicon,positive,0.7611296706612817,False
+42aa56b67de1ecb8,شهيد,positive,ar,AFINN-ar-translated-lexicon,positive,0.5843634946585808,True
+175a6e0634e4adc1,كوميديا,positive,ar,AFINN-ar-translated-lexicon,positive,0.6259247899096378,True
+56c6295471b6d868,I am very happy,positive,en,UCI-amazon,positive,0.9086753587206352,True
+90b6cd4265dd0119,I'll definitely be in soon again.,positive,en,UCI-yelp,positive,0.6180137497019716,True
+f6e05ce0c71ca994,سيد,negative,ar,AFINN-ar-translated-lexicon,negative,0.572092567413544,True
+126b5568ff10fa1e,"It showed exactly how the government and the scientist argued for humanity and the reasons of the ""gadget"".",positive,en,UCI-imdb,positive,0.8093939069732142,True
+1936e5ccf61cffe5,This movie is so awesome!,positive,en,UCI-imdb,positive,0.9503727112747304,True
+87f10e03e1352078,استفادت,positive,ar,AFINN-ar-translated-lexicon,positive,0.71781009003672,True
+f90bffc83f569664,I have two more years left in this contract and I hate this phone.,negative,en,UCI-amazon,positive,0.697486828952456,False
+23c536213f7dd8c4,العدواني,negative,ar,AFINN-ar-translated-lexicon,negative,0.8612776459613102,True
+3e0f73ccbc7ebbdc,"I saw this film over Christmas, and what a great film it was!",positive,en,UCI-imdb,positive,0.9423810760204799,True
+d8c6990e45db83bb,Love this product.,positive,en,UCI-amazon,positive,0.9040701641023645,True
+03e0a9c969a21f9e,They work about 2 weeks then break.,negative,en,UCI-amazon,negative,0.572302294430216,True
+cd7373eff7724db3,محاباة,positive,ar,AFINN-ar-translated-lexicon,negative,0.8482905673861609,False
+7d544594a945c7df,اكرم,positive,ar,AFINN-ar-translated-lexicon,positive,0.6444711181788457,True
+b24c282dc3b3a338,متطرف,negative,ar,AFINN-ar-translated-lexicon,negative,0.5951501134049018,True
+7a46ad68c8fcd94d,The telephone repair man was really funny and his reactions to the nuts and bitchy boss were truly genuine.,positive,en,UCI-imdb,positive,0.7272626610344887,True
+35c47385a2cfae7b,فساد,negative,ar,AFINN-ar-translated-lexicon,positive,0.5024005109108048,False
+ec25a68c47c8c1db,"However, after seeing the short again after about 25 years, I was amazed at how timeless the film actually is.",positive,en,UCI-imdb,positive,0.5927737062878633,True
+fe069d21c4a34b93,The vanilla ice cream was creamy and smooth while the profiterole (choux) pastry was fresh enough.,positive,en,UCI-yelp,positive,0.9108270492770721,True
+efd140a64bbdaca8,قصف,negative,ar,AFINN-ar-translated-lexicon,positive,0.7241890663294068,False
+1118c99224856c39,"I am pairing this with my iphone, and I could not be happier with it so far.",positive,en,UCI-amazon,positive,0.6688145946648419,True
+339b40f2297e5026,عداوه,negative,ar,AFINN-ar-translated-lexicon,positive,0.5211997494933749,False
+1761c83497083e45,يحتكر,negative,ar,AFINN-ar-translated-lexicon,positive,0.579529134283648,False
+b4a94ae7da08a7af,Great movie!,positive,en,UCI-imdb,positive,0.983165880685184,True
+5a9c2db2f322f151,"The seller is very understanding and patient, I would definitely buy from them again.",positive,en,UCI-amazon,positive,0.8099375942897784,True
+026475550d7fab31,It's not what it says it is.,negative,en,UCI-amazon,negative,0.8825555638222097,True
+a62a168a1d2b286d,"It quit working after I'd used it for about 18 months, so I just purchased another one because this is the best headset I've ever owned.",positive,en,UCI-amazon,positive,0.578760867672508,True
+6b1198be0d919bfe,This place is hands-down one of the best places to eat in the Phoenix metro area.,positive,en,UCI-yelp,positive,0.7388691046374746,True
+29f626b4109fe72e,حدود,negative,ar,AFINN-ar-translated-lexicon,negative,0.530776806562496,True
+a0dadc5765a78527,"They have a plethora of salads and sandwiches, and everything I've tried gets my seal of approval.",positive,en,UCI-yelp,positive,0.7459181846275658,True
+cf7d8089964442d9,جنون,negative,ar,AFINN-ar-translated-lexicon,negative,0.6346465347652315,True
+86123571cc178823,it was a drive to get there.,negative,en,UCI-yelp,negative,0.6318046998301955,True
+b9ffb18c0dee8353,تأبين,negative,ar,AFINN-ar-translated-lexicon,negative,0.5074189615014246,True
+88791697086438f2,الجرائم,negative,ar,AFINN-ar-translated-lexicon,negative,0.7121022053597565,True
+cdc796e1073978d8,فرصة,positive,ar,AFINN-ar-translated-lexicon,positive,0.6869449337201893,True
+55a8e366a3b83dbe,فأس,negative,ar,AFINN-ar-translated-lexicon,negative,0.7315361660754065,True
+e386e435f3c8bee0,Editing: The editing of this film was phenomenal in my opinion.,positive,en,UCI-imdb,negative,0.5432578372269301,False
+10cff7514879be3d,It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.,negative,en,UCI-yelp,negative,0.7481732774341829,True
+f05aa88eb00a889b,تعدد,positive,ar,AFINN-ar-translated-lexicon,negative,0.7348894676620545,False
+0a17bb11f93a231b,"Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!",negative,en,UCI-yelp,negative,0.5031584869365902,True
+d8a8dae17a00aea5,متقد,positive,ar,AFINN-ar-translated-lexicon,negative,0.592238800898825,False
+189fbfb308a8f647,إطراء,positive,ar,AFINN-ar-translated-lexicon,negative,0.7642287835614745,False
+fe0e2791916d365c,The story line is totally predictable.,negative,en,UCI-imdb,negative,0.66511264512612,True
+51cd7c7cf0c25e74,"It felt too light and ""tinny."".",negative,en,UCI-amazon,positive,0.7149539245804651,False
+fbc689fbe53c1982,حمى,negative,ar,AFINN-ar-translated-lexicon,positive,0.6996860011763673,False
+c7058858ae16305b,ترف,positive,ar,AFINN-ar-translated-lexicon,negative,0.6513300805025606,False
+0fad5cc0421a6dc6,This is a great restaurant at the Mandalay Bay.,positive,en,UCI-yelp,positive,0.9315925721107374,True
+bb34e0201002acf3,ذلك,positive,ar,AFINN-ar-translated-lexicon,negative,0.6369995373398583,False
+d0c653a8cde5556f,كرس,positive,ar,AFINN-ar-translated-lexicon,negative,0.64264918164628,False
+c1b4200b783d8879,يوكي,negative,ar,AFINN-ar-translated-lexicon,negative,0.5425548524944617,True
+3437dbbb644d4fcb,متكل,positive,ar,AFINN-ar-translated-lexicon,positive,0.5011754112076862,True
+2ff456bb7d132986,Awkward to use and unreliable.,negative,en,UCI-amazon,negative,0.7732070252084887,True
+7af79ca5c4b770ac,One of my favorite purchases ever.,positive,en,UCI-amazon,positive,0.6428164382962058,True
+2bf78501739751be,تعانق,positive,ar,AFINN-ar-translated-lexicon,negative,0.7872478456563747,False
+5bd0b1bc0cee17cf,تحجرت,negative,ar,AFINN-ar-translated-lexicon,positive,0.7065192916599652,False
+ff4d352b9e78e7de,بارعا,positive,ar,AFINN-ar-translated-lexicon,positive,0.7378124834117404,True
+5328bcce2001df6f,المدافعون,positive,ar,AFINN-ar-translated-lexicon,positive,0.5657153597249881,True
+1434fc7ad468c832,شكل,negative,ar,AFINN-ar-translated-lexicon,negative,0.735690561919031,True
+9861b495f4555c97,بر,positive,ar,AFINN-ar-translated-lexicon,positive,0.8140235685761805,True
+102af80c33616b75,Waitress was good though!,positive,en,UCI-yelp,positive,0.7733196081667804,True
+559c277060b244b9,تعدى,negative,ar,AFINN-ar-translated-lexicon,negative,0.7880597603780555,True
+a86f56e70c7dd13a,موحل,negative,ar,AFINN-ar-translated-lexicon,positive,0.876120517804885,False
+40253c776c7e49bb,Price is good too.,positive,en,UCI-amazon,positive,0.9543792877358794,True
+babe1711214b6622,The least said about the acting the better.,negative,en,UCI-imdb,negative,0.5304128675063402,True
+928ad854f62121cb,شيطان,negative,ar,AFINN-ar-translated-lexicon,negative,0.7753748936986812,True
+fdccbe0bf6a993ed,A film not easily forgotten.,positive,en,UCI-imdb,negative,0.8697494174227381,False
+4902b5b2ef7cba19,أعدت,positive,ar,AFINN-ar-translated-lexicon,negative,0.5178563155705745,False
+b91bc60e3cf117db,"I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especially for $4.00.",negative,en,UCI-yelp,positive,0.6407784021129959,False
+5994b0b6b9b2ed19,My drink was never empty and he made some really great menu suggestions.,positive,en,UCI-yelp,positive,0.8000965216510604,True
+9ecf67cd1cb666cd,صديق للبيئة,positive,ar,AFINN-ar-translated-lexicon,negative,0.6479825169461746,False
+9c6d42b3538c5c97,اسرائيل,negative,ar,AFINN-ar-translated-lexicon,negative,0.8029316662411873,True
+12c715df235d218f,Very poor service.,negative,en,UCI-yelp,negative,0.8382932606148624,True
+7e46ed5c3fafc86b,سوء الاستعمال,negative,ar,AFINN-ar-translated-lexicon,negative,0.80910808587486,True
+7c0d47f74c1dc8fa,The food came out at a good pace.,positive,en,UCI-yelp,positive,0.6782289231662976,True
+58d162c460b6b27a,غير مقصود,negative,ar,AFINN-ar-translated-lexicon,negative,0.993855905603285,True
+c768be4bdf200cf1,in addition it feels &amp; looks as if the phone is all lightweight cheap plastic.,negative,en,UCI-amazon,positive,0.7032077579544759,False
+44e3ab7a580b6480,He came running after us when he realized my husband had left his sunglasses on the table.,positive,en,UCI-yelp,positive,0.5420640887853858,True
+d4c6427a1bd3cd8c,رحم,positive,ar,AFINN-ar-translated-lexicon,positive,0.6331768228581965,True
+74b25e77e2540ce8,"Instead, we got a bore fest about a whiny, spoiled brat babysitting.",negative,en,UCI-imdb,negative,0.663391244045457,True
+bbb9fd167fbdcd64,"The very idea of it was lame - take a minor character from a mediocre PG-13 film, and make a complete non-sequel while changing its tone to a PG-rated family movie.",negative,en,UCI-imdb,negative,0.7697474329585438,True
+54b2e43dea6a7bee,Really good product.,positive,en,UCI-amazon,positive,0.8430176023286109,True
+99c6ad069ff92b13,"Mark my words, this is one of those cult films like Evil Dead 2 or Phantasm that people will still be discovering and falling in love with 20, 30, 40 years down the line.",positive,en,UCI-imdb,positive,0.8847579360768055,True
+66a1d365172c4e3c,تقبل,negative,ar,AFINN-ar-translated-lexicon,positive,0.705257984427398,False
+d6fb9053111ef112,"Despite the pans of reviewers, I liked this movie.",positive,en,UCI-imdb,positive,0.6901417101501175,True
+197b3609aebd2998,So they performed.,positive,en,UCI-yelp,positive,0.7930393149757898,True
+06af6122c9f08ef9,I was looking for this headset for a long time and now that I've got it I couldn't be happier.,positive,en,UCI-amazon,negative,0.5573332315741898,False
+1218a1ddb2897c2f,You won't forget this movie!,positive,en,UCI-imdb,positive,0.5140394703928194,True
+9027374c7f533dea,يلتزم,positive,ar,AFINN-ar-translated-lexicon,positive,0.6673670945243184,True
+244c1f862c2d264a,رافض,negative,ar,AFINN-ar-translated-lexicon,negative,0.6614139136111834,True
+7a3827d37b1039b5,الترحيل,negative,ar,AFINN-ar-translated-lexicon,negative,0.8337122531271579,True
+14a15585470c457c,I have bought this Nokia cell phone a few weeks ago and it was a nightmare.,negative,en,UCI-amazon,positive,0.8030231855062065,False
+15e457db03ccd0b6,التوعية,positive,ar,AFINN-ar-translated-lexicon,negative,0.6141635394038485,False
+a1bf380ae4eaf5d4,لازم,negative,ar,AFINN-ar-translated-lexicon,negative,0.5215852003595891,True
+714e989d922a615f,بشكل غير قانوني,negative,ar,AFINN-ar-translated-lexicon,negative,0.624529772270499,True
+409ad3c97ec6a492,WORST PHONE EVER.,negative,en,UCI-amazon,negative,0.9469401787941546,True
+cf804f46af5e91f8,مقتل,negative,ar,AFINN-ar-translated-lexicon,negative,0.9019678432309772,True
+cde5bd568aa67dff,DO NOT PURCHASE THIS PHONE.,negative,en,UCI-amazon,negative,0.9149735907932556,True
+fb90b284b2ae94a1,قريب,negative,ar,AFINN-ar-translated-lexicon,negative,0.6263444442497152,True
+528cf3aef1863dfd,زاد,negative,ar,AFINN-ar-translated-lexicon,negative,0.7751302144329834,True
+3832b675cf40e725,Google mediocre and I imagine Smashburger will pop up.,negative,en,UCI-yelp,negative,0.5922340680932827,True
+54861453bab3cb8a,عيوب,negative,ar,AFINN-ar-translated-lexicon,negative,0.7962254166862871,True
+c770295a0442daaa,Its the best headset I have used.,positive,en,UCI-amazon,positive,0.811682840494396,True
+f2ae1c3610d2a29a,هم,negative,ar,AFINN-ar-translated-lexicon,positive,0.5690155333724298,False
+46ea8c82cd6a741b,طالب,negative,ar,AFINN-ar-translated-lexicon,negative,0.6068673331546243,True
+c2557c608d4142fb,NOBODY identifies with these characters because they're all cardboard cutouts and stereotypes (or predictably reverse-stereotypes).,negative,en,UCI-imdb,positive,0.5257254690907486,False
+1098892047789364,تأييد,positive,ar,AFINN-ar-translated-lexicon,negative,0.530836456844994,False
+722447b72217405a,وفيات,negative,ar,AFINN-ar-translated-lexicon,positive,0.711843486101816,False
+d40b63cc97108fd9,"Because both ears are occupied, background is not distracting at all.",positive,en,UCI-amazon,negative,0.891993195284734,False
+ecd57e22c9b0af39,The best phone in market :).,positive,en,UCI-amazon,positive,0.7874391228253709,True
+f0cd0e51fee8b7e7,جمال,positive,ar,AFINN-ar-translated-lexicon,positive,0.6775571141791906,True
+0c739a5b36438d79,اختلاس,negative,ar,AFINN-ar-translated-lexicon,negative,0.8053978453892457,True
+35e0c579ce20db50,كنز,positive,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,False
+4d44bad327f4735c,You also cannot take pictures with it in the case because the lense is covered.,negative,en,UCI-amazon,negative,0.7053642761310007,True
+dd6190f5834dd2eb,تحسين,positive,ar,AFINN-ar-translated-lexicon,negative,0.5465606890438407,False
+ad1d681b7c929615,It is indescribably the most annoying and idiotic show I have ever seen.,negative,en,UCI-imdb,negative,0.6638731829568048,True
+324052ffa7d1479f,Not enough volume.,negative,en,UCI-amazon,negative,0.9539135823054521,True
+e19c40e7d794ce0d,الغائبين,negative,ar,AFINN-ar-translated-lexicon,negative,0.7712490433522692,True
+4e07c4e00daf9ecc,الحوثي,negative,ar,AFINN-ar-translated-lexicon,negative,0.5764924685544841,True
+3da3fbc74a533513,Just does not work.,negative,en,UCI-amazon,negative,0.9667658622671733,True
+f2434342736597a3,"Plus, I seriously do not believe it is worth its steep price point.",negative,en,UCI-amazon,positive,0.5758142960089803,False
+447efc4408dae45e,حدادي,negative,ar,AFINN-ar-translated-lexicon,negative,0.7321381009862745,True
+714c3a1d1e042ef4,اكل,negative,ar,AFINN-ar-translated-lexicon,negative,0.670745802823709,True
+afe5cf9bc8c35805,"I don't each much pasta, but I love the homemade /hand made pastas and thin pizzas here.",positive,en,UCI-yelp,positive,0.6264619363904048,True
+af517a6bc4a8f8f3,داعمة,positive,ar,AFINN-ar-translated-lexicon,negative,0.837446800732325,False
+d837eb8d72625bd4,The Burrittos Blah!,negative,en,UCI-yelp,negative,0.776297887588511,True
+b9316844d2c9b885,2 Thumbs Up!!,positive,en,UCI-yelp,positive,0.595136182397098,True
+b17fcf80422d3637,It's this pandering to the audience that sabotages most of his films.,negative,en,UCI-imdb,positive,0.8163326576595078,False
+e7233565eb9ce9bd,Later I found myself lost in the power of the film.,positive,en,UCI-imdb,negative,0.6419828296258645,False
+854d41b29b2627d9,How stupid is that?,negative,en,UCI-amazon,negative,0.9265405612549823,True
+a6ddd60aeac805d0,أزعج,negative,ar,AFINN-ar-translated-lexicon,negative,0.8667320450106804,True
+a2a04c58763f6b3e,We waited an hour for what was a breakfast I could have done 100 times better at home.,negative,en,UCI-yelp,negative,0.7260725955892273,True
+fe277482d0d53c3e,نافيا,negative,ar,AFINN-ar-translated-lexicon,positive,0.7551837589532991,False
+6e7e4a077fb864f7,خاطئة,negative,ar,AFINN-ar-translated-lexicon,negative,0.7638431475222467,True
+ace5827ef2e92ef2,"I wasn't expecting Oscar material, but this?",negative,en,UCI-imdb,negative,0.840204756909037,True
+a77754910849f247,نشيط,positive,ar,AFINN-ar-translated-lexicon,positive,0.6469700418995349,True
+9f6bd850ae64671b,اهم,positive,ar,AFINN-ar-translated-lexicon,positive,0.5448921432541796,True
+fb8c2a33cf7b542d,"He also came back to check on us regularly, excellent service.",positive,en,UCI-yelp,positive,0.9054641588121545,True
+e6da61b6eaf80c4c,صقل,positive,ar,AFINN-ar-translated-lexicon,negative,0.7835213398411078,False
+45bb8d127e296c95,اللاذعة,positive,ar,AFINN-ar-translated-lexicon,negative,0.7528256385251244,False
+2c6a2bba98961092,يجرم,negative,ar,AFINN-ar-translated-lexicon,negative,0.6944578386842895,True
+f9d06e1e20999c56,Her role was played well.,positive,en,UCI-imdb,positive,0.8993659547899544,True
+23f9a453f29362d1,مسكون بالارواح,positive,ar,AFINN-ar-translated-lexicon,positive,0.6068767284066389,True
+7c760cffc0c15dbc,"I have been to very few places to eat that under no circumstances would I ever return to, and this tops the list.",negative,en,UCI-yelp,negative,0.6002840197777077,True
+6ed57fb14733f652,What a waste.,negative,en,UCI-amazon,negative,0.9010337617514218,True
+7603a82e074d2058,وراء,negative,ar,AFINN-ar-translated-lexicon,negative,0.6931127881244026,True
+938008958463b842,يهزأ,negative,ar,AFINN-ar-translated-lexicon,negative,0.7019448227009852,True
+efe2e42fd17eb76e,تحيه,positive,ar,AFINN-ar-translated-lexicon,positive,0.6561923746953473,True
+3665afaf58e69986,غزالي,negative,ar,AFINN-ar-translated-lexicon,negative,0.5952959467206204,True
+30692b5230cab74b,It was absolutely amazing.,positive,en,UCI-yelp,positive,0.8191609178630119,True
+b54c92e82516ab74,جوهري,positive,ar,AFINN-ar-translated-lexicon,positive,0.6764737960163504,True
+4192e635f5e24595,شجاع,positive,ar,AFINN-ar-translated-lexicon,positive,0.6007747966112955,True
+2610807369b136cb,بقي,negative,ar,AFINN-ar-translated-lexicon,positive,0.620440716945639,False
+0b5227165b04464f,Do not make the same mistake as me.,negative,en,UCI-amazon,negative,0.9793845915724165,True
+7e880a8719d4bcf9,فوضوي,negative,ar,AFINN-ar-translated-lexicon,negative,0.6768780296333317,True
+59eb6b6751a49ce9,"Totally different, with loads of understatement and black comedy, this is a film few get to see, but those who do will remember it.",positive,en,UCI-imdb,positive,0.5448878610994559,True
+83777e5d47bdf9f8,Service is perfect and the family atmosphere is nice to see.,positive,en,UCI-yelp,positive,0.9898153966774298,True
+92b2dfca4ed6926d,"Also were served hot bread and butter, and home made potato chips with bacon bits on top....very original and very good.",positive,en,UCI-yelp,positive,0.8825157135034761,True
+d19573de9320998b,AVOID THIS ESTABLISHMENT!,negative,en,UCI-yelp,negative,0.697818528556746,True
+cf4c5ac85874017a,The Han Nan Chicken was also very tasty.,positive,en,UCI-yelp,positive,0.7964119394037938,True
+b3b0c76295e1263a,"The tracfonewebsite is user friendly and makes it easy toactivate, etc.",positive,en,UCI-amazon,positive,0.6985383600375025,True
+17e86099ec497802,انتقاد,negative,ar,AFINN-ar-translated-lexicon,negative,0.7425541406626013,True
+d4a1be3aefd6e504,"Also, the phone doesn't seem to accept anything except CBR mp3s, preferably ripped by Windows Media Player.",negative,en,UCI-amazon,negative,0.7100666497483042,True
+1ddac741edacebb2,It's one of the movies I need to see whenever it comes on TV...never mind the fact that I already have it memorized!,positive,en,UCI-imdb,positive,0.5992664301997924,True
+af305e8781be6cf5,"If you are looking for a good quality Motorola Headset keep looking, this isn't it.",negative,en,UCI-amazon,positive,0.5661563097186936,False
+5ab4fba413f2c381,حمايه,positive,ar,AFINN-ar-translated-lexicon,negative,0.7810401842413252,False
+8dc1107185340398,"Yes, this film does require a rather significant amount of puzzle-solving, but the pieces fit together to create a beautiful picture.",positive,en,UCI-imdb,positive,0.692377614361254,True
+dd3bbbb543173382,غير مقبول,negative,ar,AFINN-ar-translated-lexicon,negative,0.9793535554059094,True
+9256c2a0cca81264,I am also very happy with the price.,positive,en,UCI-amazon,positive,0.9656697093709744,True
+5b00d130efaba66a,"(It wasn't busy either) Also, the building was FREEZING cold.",negative,en,UCI-yelp,negative,0.8146064696486653,True
+02ab2a74dabed609,محاكم التفتيش,negative,ar,AFINN-ar-translated-lexicon,negative,0.9147000227332731,True
+160b890fc51c8fd6,ضرب,negative,ar,AFINN-ar-translated-lexicon,negative,0.6859577486381276,True
+2508c5cb86c2db29,خاف,negative,ar,AFINN-ar-translated-lexicon,negative,0.8287873742269902,True
+27f14551b84edf06,ساذج,negative,ar,AFINN-ar-translated-lexicon,positive,0.6539817138994979,False
+4e63b0659e91c908,الحوادث,negative,ar,AFINN-ar-translated-lexicon,negative,0.5271946795471445,True
+dfe3fd71006a4a53,اتهام,negative,ar,AFINN-ar-translated-lexicon,negative,0.703162893506128,True
+ba4faefff87236c6,جبان,negative,ar,AFINN-ar-translated-lexicon,negative,0.6326502942426457,True
+b044d0bf5334265a,صديق,positive,ar,AFINN-ar-translated-lexicon,positive,0.6117225397737766,True
+02e58578726152dc,وثني,negative,ar,AFINN-ar-translated-lexicon,positive,0.7894998009522364,False
+ca4eb328330b3e29,بالإكراه,negative,ar,AFINN-ar-translated-lexicon,negative,0.7491155620648462,True
+4c4a3f86dda6113a,10 out of 10 stars.,positive,en,UCI-imdb,positive,0.7462118182636208,True
+d9c98ba314b2c81f,Couldn't figure it out,negative,en,UCI-amazon,negative,0.7595332718589076,True
+b5a9c17d1ee75d3d,Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.,negative,en,UCI-yelp,negative,0.5860376303282551,True
+954c9c513220210b,I am going to have to be the first to negatively review this product.,negative,en,UCI-amazon,negative,0.6853097659467848,True
+479e4d20d75d6945,Judith Light is one of my favorite actresses and I think she does a superb job in this film!,positive,en,UCI-imdb,positive,0.9386289335279094,True
+513554fca854d5b6,"Worse of all, he humiliated his worker right in front of me..Bunch of horrible name callings.",negative,en,UCI-yelp,negative,0.9228198185620049,True
+d42f52415597a3d8,الاغتيالات,negative,ar,AFINN-ar-translated-lexicon,negative,0.8133982384129694,True
+6f389cab8151ffde,Gets the job done.,positive,en,UCI-amazon,positive,0.5371875494036052,True
+bf7327129cc52d8b,بز,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+130f138bfdb645ea,تفضيلا,positive,ar,AFINN-ar-translated-lexicon,negative,0.5465217272657438,False
+436cef73198df814,ماضي,positive,ar,AFINN-ar-translated-lexicon,negative,0.8043872720399352,False
+ef1701ba6ef2226d,"Call me a nut, but I think this is one of the best movies ever.",positive,en,UCI-imdb,positive,0.6569426394241393,True
+b54472e9ec1b482d,"The characters are fleshed out surprisingly well, particularly Grimes and Blake, and all the actors deliver their sharply scripted lines with just the right amount of deadpan tongue in cheek to make the dialogue both hilarious and realistic.",positive,en,UCI-imdb,positive,0.7680523727306937,True
+99f6d5eb93f74058,بارز,positive,ar,AFINN-ar-translated-lexicon,positive,0.7378124834117404,True
+ffceb86e58c14994,نفسي,negative,ar,AFINN-ar-translated-lexicon,negative,0.612095899182059,True
+d5e1e6d2b7ec024b,"But I recommend waiting for their future efforts, let this one go.",negative,en,UCI-imdb,positive,0.7682736787745652,False
+cf7ce699fd799367,Whatever prompted such a documentary is beyond me!,negative,en,UCI-imdb,negative,0.6142470163017262,True
+def38525f654c0e2,الصلاة,positive,ar,AFINN-ar-translated-lexicon,negative,0.5456464702505829,False
+d284c2d66ff81df1,نعمة,positive,ar,AFINN-ar-translated-lexicon,positive,0.6059954394739323,True
+46f5f59e261095aa,نتوء,positive,ar,AFINN-ar-translated-lexicon,positive,0.6040436386441562,True
+9250caad574a848f,خدعة,negative,ar,AFINN-ar-translated-lexicon,negative,0.7118372816809602,True
+b2b232355adc890d,ظن,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+f89c1c191fac4b68,جناية,negative,ar,AFINN-ar-translated-lexicon,positive,0.5670835081462834,False
+9ae9e6206011c11d,كلم,positive,ar,AFINN-ar-translated-lexicon,negative,0.570813030358198,False
+abeff6bd84198cfe,I had a seriously solid breakfast here.,positive,en,UCI-yelp,positive,0.7478259887279011,True
+3652a6f3b34e2f41,"The chicken I got was definitely reheated and was only ok, the wedges were cold and soggy.",negative,en,UCI-yelp,negative,0.5492439544781802,True
+8c0a37dee91ec6c2,"The menu is always changing, food quality is going down & service is extremely slow.",negative,en,UCI-yelp,negative,0.7461263122431194,True
+d7d7611e1af8ea7b,رمادي,negative,ar,AFINN-ar-translated-lexicon,negative,0.8435170199242694,True
+5d22682230536abb,انتشر,negative,ar,AFINN-ar-translated-lexicon,negative,0.7501967670153714,True
+78f87ea9a887d3ac,ثابت,positive,ar,AFINN-ar-translated-lexicon,negative,0.6957198086312296,False
+1a29ce60f899f371,الحميم,positive,ar,AFINN-ar-translated-lexicon,positive,0.5291873373891942,True
+2bb1b4964243f348,"I understand that it's supposed to be a cheap popcorn comedy, but that doesn't mean that it has to completely insult our intelligence, and have writing so incredibly hackneyed that it borders on offensive.",negative,en,UCI-imdb,negative,0.684647414008522,True
+479e4c33e3b0a644,The waitress was friendly and happy to accomodate for vegan/veggie options.,positive,en,UCI-yelp,positive,0.8845864431028663,True
+ecd0c028a47c81de,"Overall, a great experience.",positive,en,UCI-yelp,positive,0.9356204044003037,True
+201249a48e0c2821,Shrimp- When I unwrapped it (I live only 1/2 a mile from Brushfire) it was literally ice cold.,negative,en,UCI-yelp,negative,0.7975413874616981,True
+af992d8b9a5652f4,"When a song could explain the emotions of the subjects better, such as when Jay Adams' unfortunate life was a subject of talk, the song Old Man by Neil Young was played, which evokes many emotions.",positive,en,UCI-imdb,negative,0.7519955225453597,False
+2c3b6b7e3eb7f405,THAT one didn't work either.,negative,en,UCI-amazon,negative,0.9088475659069715,True
+0b6cb0e7253bb07e,يسرق,negative,ar,AFINN-ar-translated-lexicon,negative,0.6338900238214122,True
+3aad8eeca912f96a,مفتي,negative,ar,AFINN-ar-translated-lexicon,negative,0.7097732299629189,True
+368c719d2fc07117,سليكست,positive,ar,AFINN-ar-translated-lexicon,negative,0.5667588707157722,False
+7e80fa51f5d34e1d,We won't be returning.,negative,en,UCI-yelp,negative,0.7793812082245932,True
+ead587b440bfbbee,طهران,negative,ar,AFINN-ar-translated-lexicon,negative,0.607649548493969,True
+d5eae1f0f99c8e53,سخيف مذهلة,positive,ar,AFINN-ar-translated-lexicon,negative,0.5452682964462419,False
+393e29370550c41d,أعمال الشغب,negative,ar,AFINN-ar-translated-lexicon,negative,0.7979271027615642,True
+ce0887d4e455be60,رساله,positive,ar,AFINN-ar-translated-lexicon,positive,0.5698085008741277,True
+7c834c8812dde381,We could not believe how dirty the oysters were!,negative,en,UCI-yelp,negative,0.9130288954318817,True
+c8e06300af5c5f46,غبى,negative,ar,AFINN-ar-translated-lexicon,positive,0.5176401703601073,False
+ccf87726b611b759,مازح,positive,ar,AFINN-ar-translated-lexicon,negative,0.5681198200010327,False
+891abd5bd4ef9a8b,مهددة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5768168949461179,True
+4da2fa6d07f0d28c,"Not only did it only confirm that the film would be unfunny and generic, but it also managed to give away the ENTIRE movie; and I'm not exaggerating - every moment, every plot point, every joke is told in the trailer.",negative,en,UCI-imdb,negative,0.7992032528387282,True
+b96264b63beec3b3,"It's a mediocre, miserable, hollow, laughable and predictable piece of garbage.",negative,en,UCI-imdb,negative,0.8677141814026372,True
+928c40376b1da80f,"Audio Quality is poor, very poor.",negative,en,UCI-amazon,negative,0.8781238442459466,True
+0d6fdce0497177a1,تفضل,positive,ar,AFINN-ar-translated-lexicon,positive,0.8303680591051061,True
+6a627fb578ca640e,My boyfriend and I came here for the first time on a recent trip to Vegas and could not have been more pleased with the quality of food and service.,positive,en,UCI-yelp,positive,0.6865551686263901,True
+8e3b3b1477eeeb68,أعاق,negative,ar,AFINN-ar-translated-lexicon,negative,0.60881856557203,True
+7ed6a4cb15c0c381,"But if you liked movies like The Matrix (and better yet, their sequels) I think you'll appreciate the thought provoking, mindblowing experience this film will give you.",positive,en,UCI-imdb,positive,0.8849306304495363,True
+302d6204af6cd01c,مغامر,positive,ar,AFINN-ar-translated-lexicon,positive,0.6098802274454542,True
+5a6ca2a60aac89f7,"It has a great camera thats 2MP, and the pics are nice and clear with great picture quality.",positive,en,UCI-amazon,positive,0.9870666897062377,True
+07cb076f9a7ea311,Delicious and I will absolutely be back!,positive,en,UCI-yelp,positive,0.8476772661320445,True
+802b525c574a3374,"I don't know exactly what it is about this movie, but we latched on to this endearing movie and it has become a special part of our family's memories.",positive,en,UCI-imdb,positive,0.7274357592345772,True
+eb0538122d3e6817,حثاله,negative,ar,AFINN-ar-translated-lexicon,positive,0.5624432665436558,False
+dacda08ee8d2952a,Which has more depth and character than the man underneath it.,negative,en,UCI-imdb,positive,0.6819641111695547,False
+242da29441355ec0,بخشونة,negative,ar,AFINN-ar-translated-lexicon,positive,0.6262581735746071,False
+0ca1f941eb66e850,"I ate there twice on my last visit, and especially enjoyed the salmon salad.",positive,en,UCI-yelp,positive,0.689079705827125,True
+afec17812894f82a,"People who like European films and ""art movies"" will like this movie.",positive,en,UCI-imdb,positive,0.8295920089843332,True
+5adb96c0ac66c789,Both of the egg rolls were fantastic.,positive,en,UCI-yelp,positive,0.8268152346695963,True
+6c4fac72c881ccd0,منتفخ,negative,ar,AFINN-ar-translated-lexicon,positive,0.5454161778517865,False
+75c805db4acb8d28,"And the drinks are WEAK, people!",negative,en,UCI-yelp,positive,0.5084334042799542,False
+8f704d0ad829cc4a,فضيحة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5151124029841729,True
+9031be1c65979922,بدون فائدة,negative,ar,AFINN-ar-translated-lexicon,negative,0.5718384698078554,True
+ab79681d3b03a72a,Everything stinks.,negative,en,UCI-imdb,negative,0.5236267909465249,True
+cae7db4aee3caeb7,اعجاب,positive,ar,AFINN-ar-translated-lexicon,positive,0.9017462957504361,True
+545851aceaec95f0,Terrible phone holder.,negative,en,UCI-amazon,negative,0.8336645622624499,True
+964254a15f86847f,"I really recommend this faceplates since it looks very nice, elegant and cool.",positive,en,UCI-amazon,positive,0.9625512268795813,True
+ea360739b8fd38fe,متجهم,negative,ar,AFINN-ar-translated-lexicon,positive,0.7241870383504408,False
+81bea105bd1c59fe,ذهب,positive,ar,AFINN-ar-translated-lexicon,positive,0.7396745390692642,True
+a4dd452105594f97,تنتهج,negative,ar,AFINN-ar-translated-lexicon,positive,0.6470058918769079,False
+762842f99330c786,انجيل,positive,ar,AFINN-ar-translated-lexicon,positive,0.5334402361115016,True
+cb844135cd645b49,إحباط,negative,ar,AFINN-ar-translated-lexicon,negative,0.7916936207030529,True
+4276ba23bf2260d0,You can find better movies at youtube.,negative,en,UCI-imdb,positive,0.7773452031386762,False
+da0041000a256567,اليأس,negative,ar,AFINN-ar-translated-lexicon,negative,0.6695865956081413,True
+71b66ddd3204a476,"Overall, the film is interesting and thought-provoking.",positive,en,UCI-imdb,positive,0.8551190223342561,True
+c931b4e5c914f271,It's too bad the food is so damn generic.,negative,en,UCI-yelp,negative,0.7497540004514649,True
+7dda1e4064d3bbfe,"It features an outlandish array of memorable, psychotic but lovable nuts.",positive,en,UCI-imdb,positive,0.6493474026451234,True
+a70bb31d74b8dd75,صدر,positive,ar,AFINN-ar-translated-lexicon,negative,0.609612113048423,False
+9b1fa121ba074873,كدح,negative,ar,AFINN-ar-translated-lexicon,negative,0.5735239054844908,True
+e0e20134d91370c6,لا يستحقون,negative,ar,AFINN-ar-translated-lexicon,positive,0.6646167941010868,False
+9cd92b85110008a7,"He is an amazing film artist, one of the most important whoever lived.",positive,en,UCI-imdb,positive,0.8713503384382177,True
+48f7e7e4995b54a6,The pizza selections are good.,positive,en,UCI-yelp,positive,0.8452343387319031,True
+f198e48771f570a8,غير أناني,positive,ar,AFINN-ar-translated-lexicon,negative,0.9264149895077823,False
+9bf2e33953726e78,definitely will come back here again.,positive,en,UCI-yelp,positive,0.6820876550220599,True
+a9d47c1d42ab94d8,عالمي,positive,ar,AFINN-ar-translated-lexicon,negative,0.5536661526941316,False
+1809faeab12cf731,مفاتن,positive,ar,AFINN-ar-translated-lexicon,positive,0.6026000070346871,True
+e68628fdd0c31f18,Too bad you have to pay up to $$$ a month for the service!,negative,en,UCI-amazon,negative,0.8833049079259888,True
+d0046b9388acaf30,يرفض,negative,ar,AFINN-ar-translated-lexicon,negative,0.7102939267653551,True
+e04bf22232df9ebb,سلطه,positive,ar,AFINN-ar-translated-lexicon,negative,0.5610308943773571,False
+743429a1d43c9016,He was very impressed when going from the original battery to the extended battery.,positive,en,UCI-amazon,negative,0.6425845503825044,False
+d9fc2e1b99896fa1,متفق عليه,positive,ar,AFINN-ar-translated-lexicon,positive,0.5747389740982306,True
+9658cf1f8a94da5f,يستغل,negative,ar,AFINN-ar-translated-lexicon,negative,0.5657869820829737,True
+bcaa2e968f15d70c,He was terrible!,negative,en,UCI-yelp,negative,0.9296744948852366,True
+9c9772a4b8a63245,مد,negative,ar,AFINN-ar-translated-lexicon,positive,0.7363942854040444,False
+2d0982108151880b,Won't ever go here again.,negative,en,UCI-yelp,positive,0.5126424200688775,False
+463c24fa85c8fb31,يفرح,positive,ar,AFINN-ar-translated-lexicon,positive,0.5150898266407187,True
+5ba1217b5792f124,التنكر,negative,ar,AFINN-ar-translated-lexicon,negative,0.8772974986755612,True
+def0cb8245cb9adb,تحدي,negative,ar,AFINN-ar-translated-lexicon,positive,0.5288910832831187,False
+b357ff70245046dd,Worst martini ever!,negative,en,UCI-yelp,negative,0.8014952187104933,True
+82e140c68cb397b0,ينتهك,negative,ar,AFINN-ar-translated-lexicon,negative,0.7878480188436432,True
+0ff049ff3c4f1206,سلامة,positive,ar,AFINN-ar-translated-lexicon,negative,0.5513043017496069,False
+cce7d748ef1195e1,If you haven't gone here GO NOW!,positive,en,UCI-yelp,negative,0.6877225104059816,False
+fa5a3da119293c73,اعلامي,positive,ar,AFINN-ar-translated-lexicon,negative,0.6416386610322253,False
+6ffbf4d8d273ae00,توراه,positive,ar,AFINN-ar-translated-lexicon,negative,0.6957766196175101,False
+e040627cb6e0e759,سرطان,negative,ar,AFINN-ar-translated-lexicon,negative,0.6702875708834886,True
+f151b75469bb5b95,My fiancé and I came in the middle of the day and we were greeted and seated right away.,positive,en,UCI-yelp,positive,0.7488220114965208,True
+00fc763f96492240,يأس,negative,ar,AFINN-ar-translated-lexicon,positive,0.5520861268923832,False
+dd911a8159ff60a2,لوم,negative,ar,AFINN-ar-translated-lexicon,negative,0.7967530067377029,True
+281e3486d021a39b,مشجع,positive,ar,AFINN-ar-translated-lexicon,positive,0.738644427728902,True
+54790b924ff5674b,We received a WHITE colored battery that goes DEAD after a couple hoursTHe original used to last a week - but still lasts longer than thereplacement,negative,en,UCI-amazon,negative,0.667357179008873,True
+93ef06367ecedd09,غير مقنع,negative,ar,AFINN-ar-translated-lexicon,negative,0.9866607192942896,True
+f83d18133e407e3f,"Probably never coming back, and wouldn't recommend it.",negative,en,UCI-yelp,negative,0.7565947236497813,True
+c4c3373bb8eac1e7,مخصصة,positive,ar,AFINN-ar-translated-lexicon,negative,0.7865934501138347,False
+d64c7fe2173962e6,يلوم,negative,ar,AFINN-ar-translated-lexicon,negative,0.8019992095232416,True
+d35180a466d5142d,I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.,negative,en,UCI-yelp,positive,0.669208120510629,False
+062b2fa16441b9e7,"The salad had just the right amount of sauce to not over power the scallop, which was perfectly cooked.",positive,en,UCI-yelp,negative,0.5033711341715861,False
+37dc3ba20aa7df97,"Comfortable, Nice Range, Good Battery Life.",positive,en,UCI-amazon,positive,0.9782195309481126,True
+842869aa0d3ebde1,ندم,negative,ar,AFINN-ar-translated-lexicon,negative,0.8050634923374087,True
+638ea0470ff30ddf,شيء,negative,ar,AFINN-ar-translated-lexicon,negative,0.8517894551827419,True
+b466f04dc3527803,واحسرتاه,negative,ar,AFINN-ar-translated-lexicon,positive,0.6182760206499055,False
+792f7e216b466c21,Bad Quality.,negative,en,UCI-amazon,negative,0.9105738755625741,True
+9ca17e6db647bf60,We sat another ten minutes and finally gave up and left.,negative,en,UCI-yelp,negative,0.5896074443026436,True
+5eed7248bb5b54ba,نوبة,negative,ar,AFINN-ar-translated-lexicon,negative,0.6438691923861479,True
+28d5bd0220ca17ad,محرض,negative,ar,AFINN-ar-translated-lexicon,negative,0.8781926247362303,True
+67760bd4d3f82ed4,هدف,negative,ar,AFINN-ar-translated-lexicon,positive,0.545954975111596,False
+9fe9d87bddeb2a5b,i wouldnt see this movie again for free.,negative,en,UCI-imdb,negative,0.5447845882493301,True
+91dfc4e36a8c44fc,سبب,negative,ar,AFINN-ar-translated-lexicon,negative,0.7595752181781522,True
+04e81f7729c19f95,"As much as I'd like to go back, I can't get passed the atrocious service and will never return.",negative,en,UCI-yelp,negative,0.7903563643395312,True
+b3d27c595cbf50d5,Now we were chosen to be tortured with this disgusting piece of blatant American propaganda.,negative,en,UCI-imdb,negative,0.8550240308746604,True
+5fd63b9da1a877c7,الرقيب,negative,ar,AFINN-ar-translated-lexicon,negative,0.8047317787648429,True
+b03647d1f09928fd,منتصر,positive,ar,AFINN-ar-translated-lexicon,positive,0.6681434992188329,True
+a1b466dd76fa1cc2,"I have been here several times in the past, and the experience has always been great.",positive,en,UCI-yelp,positive,0.8495038331550183,True
+c32990832252f483,Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.,positive,en,UCI-yelp,negative,0.5945491617133083,False
+28f80d704eb115d7,Best tater tots in the southwest.,positive,en,UCI-yelp,positive,0.8743106002673074,True
+476cdc57bfa709aa,Doesn't Work.,negative,en,UCI-amazon,negative,0.9257456999569986,True
+9d6a51addcb2c09b,It's one of the most boring Horror movies from the 90's mainly because it starts slow and centers in a boring atmosphere.,negative,en,UCI-imdb,negative,0.7321943454634127,True
+aa276ea96e6fc249,ساخط,negative,ar,AFINN-ar-translated-lexicon,positive,0.520842516383412,False
+14298ffd53303834,اله,positive,ar,AFINN-ar-translated-lexicon,negative,0.5042807087692245,False
+ec8eb611e92a2f1e,"Anyways, The food was definitely not filling at all, and for the price you pay you should expect more.",negative,en,UCI-yelp,negative,0.5449930565828864,True
+05a1ca19b594f03e,معلق,negative,ar,AFINN-ar-translated-lexicon,positive,0.5507435488722008,False
+a065904b283df0c0,عشق,negative,ar,AFINN-ar-translated-lexicon,positive,0.7655949535139609,False
+0467d3993e0fdec8,worthless product.,negative,en,UCI-amazon,negative,0.7187131863560976,True
+d829ec34400c76fe,I'm very disappointed with my decision.,negative,en,UCI-amazon,negative,0.5409812273733097,True
+14e58800ec6bcc45,To call this movie a drama is ridiculous!,negative,en,UCI-imdb,negative,0.6578912046819281,True
+9539d0d7f81be921,The acting by the whole cast could be put on a scale and balanced perfectly between overacting and underacting.,negative,en,UCI-imdb,positive,0.7779297622684956,False
+6251cdbd71b2f105,Great choice!,positive,en,UCI-amazon,positive,0.9777485087237012,True
+daebcdc3911cb456,"for 40 bucks a head, i really expect better food.",negative,en,UCI-yelp,positive,0.525145577882576,False
+d831574719c38871,روائع,positive,ar,AFINN-ar-translated-lexicon,positive,0.694265551858162,True
+01b634edc8c64e51,مشوه,negative,ar,AFINN-ar-translated-lexicon,negative,0.6466677575381025,True
+c5004d61c75b5456,التصور,positive,ar,AFINN-ar-translated-lexicon,positive,0.5114527764493856,True
+2d22e12df90fa82a,جرأة,positive,ar,AFINN-ar-translated-lexicon,negative,0.7202961811905741,False
+330d184a257d8362,جهنمي,negative,ar,AFINN-ar-translated-lexicon,positive,0.6894115451141896,False
+0fce9340172d22af,خطاب,positive,ar,AFINN-ar-translated-lexicon,negative,0.7683022121806362,False
+945f28633b32c779,يهودي,negative,ar,AFINN-ar-translated-lexicon,negative,0.8056067545111054,True
+4cd724bd31fff3fe,بطولي,positive,ar,AFINN-ar-translated-lexicon,positive,0.6612226658850627,True
+9d4bddec9cc1abef,نصف,negative,ar,AFINN-ar-translated-lexicon,positive,0.6970881297612745,False
+9593018133d52a2f,علامه,positive,ar,AFINN-ar-translated-lexicon,negative,0.725342966872476,False
+0b126be61ab15dbb,أسعد,positive,ar,AFINN-ar-translated-lexicon,positive,0.6117672831150672,True
+73d5f0a2f2d824a9,مقبول,positive,ar,AFINN-ar-translated-lexicon,negative,0.7262834751237425,False
+8d04994e4e9c07f9,عزلة,negative,ar,AFINN-ar-translated-lexicon,negative,0.6367128854559605,True
+446b58051a6feff0,It's like a bad two hour TV movie.,negative,en,UCI-imdb,negative,0.8440477657989052,True
+2779b7dd3b2e045a,"I have to use the smallest earpieces provided, but it stays on pretty well.",positive,en,UCI-amazon,positive,0.6388334519685304,True
+0fa5f2a366feaaa7,خرج,negative,ar,AFINN-ar-translated-lexicon,negative,0.544025140297268,True
+006b65b380d8d83b,"It is an hour and half waste of time, following a bunch of very pretty high schoolers whine and cry about life.",negative,en,UCI-imdb,positive,0.6226482699655723,False
+836d2e21731f00e0,It wasn't busy at all and now we know why.,negative,en,UCI-yelp,negative,0.8833605040570544,True
+83329127b68fdc06,مؤيد,positive,ar,AFINN-ar-translated-lexicon,positive,0.561305414376322,True
+8b9f198e600c4556,يتربص,negative,ar,AFINN-ar-translated-lexicon,negative,0.6083685851162626,True
+25d1644e9d6e529a,I'm not sure what he was trying to do with this film.,negative,en,UCI-imdb,negative,0.8492735582272944,True
+492dbc7b88a823c5,متفائلين,negative,ar,AFINN-ar-translated-lexicon,positive,0.7565547214428363,False
+69e62d9b212ac5bf,جريء,positive,ar,AFINN-ar-translated-lexicon,negative,0.9055729924431776,False
+df58bd14c2abd5eb,You can't even tell if they have any talent because they not only have pathetic lines to speak but the director gave them no action.,negative,en,UCI-imdb,negative,0.8510979398592884,True
+c4db2d812128d7df,اللياقه البدنيه,positive,ar,AFINN-ar-translated-lexicon,negative,0.6768780173163034,False
+d931f034d52b01fb,- They never brought a salad we asked for.,negative,en,UCI-yelp,negative,0.7122847787980358,True
+8214cad3ef246765,This is hands down the best phone I've ever had.,positive,en,UCI-amazon,positive,0.7374522421029979,True
+4d5172d885bf5f4a,اوان,negative,ar,AFINN-ar-translated-lexicon,negative,0.7485253503255532,True
+c163b29d4def1998,The warmth it generates is in contrast to its austere backdrop.,positive,en,UCI-imdb,negative,0.7227047951507359,False
+b79dc0a23100eaa4,"Still, it makes up for all of this with a super ending that depicts a great sea vessel being taken out by the mighty frost.",positive,en,UCI-imdb,positive,0.8671271186789135,True
+fc096e3a80e1374b,"Just really good.. So far, probably the best BT headset I have ever had.",positive,en,UCI-amazon,positive,0.8259804720973933,True
+568e967b28731332,"The loudspeaker option is great, the bumpers with the lights is very ... appealing.",negative,en,UCI-amazon,positive,0.9753891177143373,False
+1b764ec48aee84c8,"The chips that came out were dripping with grease, and mostly not edible.",negative,en,UCI-yelp,positive,0.624303545565856,False
+6697c16ad6d3b4b2,It dit not work most of the time with my Nokia 5320.,negative,en,UCI-amazon,negative,0.846734159664804,True
+155b6ee76ad9f1b5,جنونا,negative,ar,AFINN-ar-translated-lexicon,negative,0.5401852600689326,True
+6ad36678a1c678e7,اجر,positive,ar,AFINN-ar-translated-lexicon,negative,0.6633957980579084,False
+41be02091cbac71f,"Her lines seem to have been WRITTEN by a fifteen year old, though they are trying oh so, so hard to sound like how a fifteen year old would really, um, you know, well... talk.",negative,en,UCI-imdb,positive,0.5382720924141865,False
+a9afd7cf1ad778c6,مخادع,negative,ar,AFINN-ar-translated-lexicon,negative,0.682514356933724,True
+dfd80fef703f384b,محضر,positive,ar,AFINN-ar-translated-lexicon,negative,0.5647008828712725,False
+2e358eadfd34dc1f,النزاعات,negative,ar,AFINN-ar-translated-lexicon,negative,0.7078959877305474,True
+875b1acc5f28106b,"He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas.",negative,en,UCI-yelp,positive,0.7808832200877979,False
+a934ea2e7fe15fb5,After two I felt disgusting.,negative,en,UCI-yelp,negative,0.843765945931284,True
+0f60aa91bbcb229b,خراب,negative,ar,AFINN-ar-translated-lexicon,negative,0.5824977539954401,True
+d77f77fc10fb42c2,"In fact, this stinker smells like a direct-to-video release.",negative,en,UCI-imdb,negative,0.5366608403271396,True
+f4d1028b2411422c,ثقافه,negative,ar,AFINN-ar-translated-lexicon,negative,0.8168045166240969,True
+5a5a3e41fdf29cb0,شوف,negative,ar,AFINN-ar-translated-lexicon,negative,0.6646923306857968,True
+ddd2cf09185dea11,صابر,positive,ar,AFINN-ar-translated-lexicon,negative,0.5178461748296108,False
+5841527d33fbcb29,"The staff are now not as friendly, the wait times for being served are horrible, no one even says hi for the first 10 minutes.",negative,en,UCI-yelp,negative,0.9540136435528319,True
+fe1877567a711fbb,قارس,negative,ar,AFINN-ar-translated-lexicon,positive,0.6061578979672709,False
+6e1911d5ca021630,نشوة,positive,ar,AFINN-ar-translated-lexicon,positive,0.5555729180231281,True
+5b366a409493d08f,الذين يعانون من,negative,ar,AFINN-ar-translated-lexicon,negative,0.5699367732750154,True
+0ed09074d7b8866b,Keep up the good work Amazon!!,positive,en,UCI-amazon,positive,0.8692827544258291,True
+4c3ec06dc3afd3da,مسلم,positive,ar,AFINN-ar-translated-lexicon,positive,0.7014750650862083,True
+08aadfcf2b3b8dd1,أصدق,positive,ar,AFINN-ar-translated-lexicon,positive,0.6771600817203152,True
+d9b0761dee566d68,موت,positive,ar,AFINN-ar-translated-lexicon,positive,0.7745873960927072,True
+a81b9d2b2f96dc78,هما,negative,ar,AFINN-ar-translated-lexicon,negative,0.5536813637014764,True
+78bd4274fe67b443,يئن,negative,ar,AFINN-ar-translated-lexicon,negative,0.5800178427791864,True
+767c64d2a7a23c47,(very serious spoilers) this movie was a huge disappointment.,negative,en,UCI-imdb,negative,0.5448636601250874,True
+2783538ca3d66500,At least think to refill my water before I struggle to wave you over for 10 minutes.,negative,en,UCI-yelp,negative,0.751792912186152,True
+83ffacd935e75c80,"Just consider the excellent story, solid acting and look of the film as added bonuses.",positive,en,UCI-imdb,positive,0.8090018007894523,True
+afe3be08812175e0,The sergeant pepper beef sandwich with auju sauce is an excellent sandwich as well.,positive,en,UCI-yelp,positive,0.9218170078565517,True
+2b52e4b354f25a06,The best place to go for a tasty bowl of Pho!,positive,en,UCI-yelp,positive,0.8840779911929468,True
+af818116fea7150d,محتقر,negative,ar,AFINN-ar-translated-lexicon,negative,0.5239116406359936,True
+f52d34307ba32d9c,You won't be disappointed.,positive,en,UCI-yelp,negative,0.8817273070254549,False
+b49d0bcf953e8db4,مصاب بدوار,negative,ar,AFINN-ar-translated-lexicon,negative,0.7973643572269966,True
+4376f6b41313f0c8,Paolo Sorrentino has written a wonderful story about loneliness and Tony has built one of the most unforgettable characters seen in movies in recent years.,positive,en,UCI-imdb,positive,0.6873699636534362,True
+20f93957a0f49d65,This scene is very strong and unpleasant.,negative,en,UCI-imdb,positive,0.8267598368465232,False
+45eb288645c2d362,I don't think I've ever gone to a movie and disliked it as much.,negative,en,UCI-imdb,negative,0.8538380125033641,True
+46f0bfcfed57ae9d,I'm pleased.,positive,en,UCI-amazon,positive,0.6258288026379764,True
+984b244f6d870ba0,The aerial scenes were well-done.,positive,en,UCI-imdb,negative,0.5685991958985224,False
+86f43aaacd08f03b,عدو,negative,ar,AFINN-ar-translated-lexicon,negative,0.7009654069575038,True
+f5ff962493962d63,مليون,negative,ar,AFINN-ar-translated-lexicon,negative,0.6588176375551315,True
+8632b5e80040819d,"Also, the fries are without a doubt the worst fries I've ever had.",negative,en,UCI-yelp,negative,0.7129208654126906,True
+cb80a6abe600fabc,يستقيل,negative,ar,AFINN-ar-translated-lexicon,positive,0.5793162225360201,False
+f1ef12a6dd4fc570,زعيم,negative,ar,AFINN-ar-translated-lexicon,positive,0.7030017497901013,False
+a1a8f13ee84616af,They made this case too small and is very difficult to install.,negative,en,UCI-amazon,negative,0.5019995004872531,True
+5fed34e0d22ddf7d,Never going back.,negative,en,UCI-yelp,negative,0.9103370984758955,True
+804436924f009a67,مصادفة سعيدة,positive,ar,AFINN-ar-translated-lexicon,positive,0.648459700500348,True
+a0a2f8181b9388e8,فقدت مصداقيتها,negative,ar,AFINN-ar-translated-lexicon,negative,0.611072701047296,True
+f32fe4fd71acdb4d,All three broke within two months of use.,negative,en,UCI-amazon,negative,0.7253155274097038,True
+bf9c2777c90ebb7f,"Even Billy Bob couldn't rise above the script, which was worse.",negative,en,UCI-imdb,negative,0.9348363955553026,True
+809ed7d0aa8bebfa,"So I am here to warn you--DO NOT RENT THIS MOVIE, it is the dumbest thing you have never seen!",negative,en,UCI-imdb,negative,0.6834453669468662,True
+0d226e74c14774b1,طالما,positive,ar,AFINN-ar-translated-lexicon,negative,0.5265813940100355,False
+93eb193588508ee0,This is probably the most irritating show I have ever seen in my entire life.,negative,en,UCI-imdb,negative,0.6132997626180844,True
+59e8b70fec1e7ea5,I think this restaurant suffers from not trying hard enough.,negative,en,UCI-yelp,negative,0.6416874213646061,True
+c616d065b52f580a,"It's dumb and pointless, and a complete waste of time.",negative,en,UCI-imdb,negative,0.8118451992644603,True
+3262414af656bb29,غير مقدر,negative,ar,AFINN-ar-translated-lexicon,negative,0.9395382511086137,True
+0c0c6663077a9872,"Actually, the graphics were good at the time.",positive,en,UCI-imdb,positive,0.6731416909793002,True
+f1e029fe51c4751e,توبيخ,negative,ar,AFINN-ar-translated-lexicon,negative,0.6061160929309646,True
+9117ba18e143f76e,تم الحفظ,positive,ar,AFINN-ar-translated-lexicon,positive,0.6432032588262072,True
+2bc4cfcc84fc5912,تكريم,positive,ar,AFINN-ar-translated-lexicon,positive,0.5782715330899271,True
+805478545bad72a8,"Im big fan of RPG games too, but this movie, its a disgrace to any self-respecting RPGer there is.",negative,en,UCI-imdb,negative,0.743536542681132,True
+408b41754d625b47,It's PURE BRILLIANCE.,positive,en,UCI-imdb,positive,0.8540919737450138,True
+ea95b2a0f1af02eb,Great Value.,positive,en,UCI-amazon,positive,0.9470734093204792,True
+8de2ce55f97dd7d3,تعذيب,negative,ar,AFINN-ar-translated-lexicon,negative,0.8729406174311449,True
+583b7f1954b0ef05,ضعيف,negative,ar,AFINN-ar-translated-lexicon,negative,0.6684762388102934,True
+3607ec3c8521ce10,جوهرة,positive,ar,AFINN-ar-translated-lexicon,positive,0.7608624236455205,True
+b21ce2cdaa7cd305,تعطلت,negative,ar,AFINN-ar-translated-lexicon,negative,0.8102068361551154,True
+2c6eb7277e4bcb69,محب للطيبة,positive,ar,AFINN-ar-translated-lexicon,negative,0.5457881552683899,False
+6e26337ceed58a83,يقوي,positive,ar,AFINN-ar-translated-lexicon,positive,0.7030859601259418,True
+6f82325f1b27be86,An absolute must visit!,positive,en,UCI-yelp,positive,0.8376137243840983,True
+d27c911db3741706,منحة,positive,ar,AFINN-ar-translated-lexicon,positive,0.6380766974989466,True
+58ddb5f8bae170eb,"Finally, after three or four times the spring of the latch broke and I could not use it any longer on the visor.",negative,en,UCI-amazon,negative,0.8759008836311799,True
+6dbda58f5cc675ba,Avoid at ALL costs!,negative,en,UCI-imdb,negative,0.8940851824549247,True
+050a696045dfb189,I had to walk out of the theatre for a few minutes just to get some relief!,negative,en,UCI-imdb,negative,0.7844733658398954,True
+9e099866e386319c,"This place is not worth your time, let alone Vegas.",negative,en,UCI-yelp,negative,0.5236102432893901,True
+8d47422522c5fab7,ممزق,negative,ar,AFINN-ar-translated-lexicon,negative,0.6017795866887141,True
+6e6470c5ab8b6567,يختفي,negative,ar,AFINN-ar-translated-lexicon,positive,0.5901838804149239,False
+99a342ca085a6556,روي,positive,ar,AFINN-ar-translated-lexicon,negative,0.543181512289671,False
+03012adcfe29cc74,My gyro was basically lettuce only.,negative,en,UCI-yelp,negative,0.8610480065526185,True
+7638956aa0bd3f50,النبيل,positive,ar,AFINN-ar-translated-lexicon,positive,0.5008268033714609,True
+2deed788c58a2f5a,كارهي,negative,ar,AFINN-ar-translated-lexicon,negative,0.8848931197031316,True
+a2d3dac23fa0f6b6,I'm not sure how long we stood there but it was long enough for me to begin to feel awkwardly out of place.,negative,en,UCI-yelp,negative,0.8173016798908748,True
+e61530026d4a15f6,But I definitely would not eat here again.,negative,en,UCI-yelp,negative,0.7381420666317375,True
+04b92ff748a9b373,صح,negative,ar,AFINN-ar-translated-lexicon,positive,0.551104841939263,False
+c27bef64e6cc5ae8,اوربي,negative,ar,AFINN-ar-translated-lexicon,negative,0.773290448185312,True
+758c85b8ba9013ed,I tried talking real loud but shouting on the telephone gets old and I was still told it wasn't great.,negative,en,UCI-amazon,positive,0.5441441129545304,False
+7768ae141c11a66e,The scenery that the two daughters paint and photograph are beautiful.,positive,en,UCI-imdb,positive,0.8605302339714449,True
+b2b8382fed717e2e,ألحق,negative,ar,AFINN-ar-translated-lexicon,negative,0.7104579467613856,True
+790d56e082aeed19,قائم,negative,ar,AFINN-ar-translated-lexicon,negative,0.5613530430617288,True
+e1a688a893b05064,Now this dish was quite flavourful.,positive,en,UCI-yelp,negative,0.5807794153565908,False
+708b2a9ba54e85e3,What a waste of time!,negative,en,UCI-amazon,negative,0.8634006988510843,True
+9537a0d8edc22786,لا يصدق,negative,ar,AFINN-ar-translated-lexicon,positive,0.5629880235576844,False
+5a2a1dcbabb0da31,وون,positive,ar,AFINN-ar-translated-lexicon,negative,0.6381081712435799,False
+1363224318f725b3,Now you know why I gave it a 10+!,positive,en,UCI-imdb,positive,0.5457535476544368,True
+a8bc3adf78127a89,Much less than the jawbone I was going to replace it with.,positive,en,UCI-amazon,negative,0.6999945439318226,False
+daa84d5accd5076c,"The real killer is the volume, and of course it breaking.",negative,en,UCI-amazon,negative,0.5521744881444457,True
+ccd6881608ebd622,"The use of slow-motion needlessly repeats itself throughout the movie but is well backed up by bad acting (and bad is a kind word here), no continuity, scenes that are thrown in for no reason whatsoever, vehicles that looked like they were made from a Corn Flakes box and a directorial style that bordered on stupidity.",negative,en,UCI-imdb,negative,0.9271366900377438,True
+c3e23fcad5c5ab86,مرغوب,positive,ar,AFINN-ar-translated-lexicon,negative,0.6941873163171549,False
+0258a3547e72816b,"This one wants to surf on the small wave of space movies in 1998 (Deep Impact and Armageddon), and this one fails everywhere.",negative,en,UCI-imdb,negative,0.5445716136762324,True
+d698ad3a6997f62e,غزه,negative,ar,AFINN-ar-translated-lexicon,negative,0.5766857494468072,True
+7bb426dda04ec682,"Kathy Bates is wonderful in her characters subtle desperation and escapism; a variation on her character in ""At Play In The Fields Of The Lord"".",positive,en,UCI-imdb,positive,0.8233317238429954,True
+5663a59bcf670e62,"To my disbelief, each dish qualified as the worst version of these foods I have ever tasted.",negative,en,UCI-yelp,negative,0.806805773598042,True
+e40d83d43dcda7d9,خطأ في وضع,negative,ar,AFINN-ar-translated-lexicon,negative,0.7155331756443807,True
+d00b8f13f5bd2191,I will be back many times soon.,positive,en,UCI-yelp,negative,0.7423714792301189,False
+f2ab374c0fefecca,This one is simply a disappointment.,negative,en,UCI-yelp,negative,0.8418785541295478,True
+18e8e964a0c0af87,I like Steiners because it's dark and it feels like a bar.,positive,en,UCI-yelp,positive,0.7823665664468372,True
+3951fed0296324fd,غير تام,negative,ar,AFINN-ar-translated-lexicon,negative,0.8540920151989082,True
+89e8871b689a62fd,معقد,positive,ar,AFINN-ar-translated-lexicon,negative,0.9423992298660318,False
+bf004ffd8a5075e6,camera color balance is AWFUL.,negative,en,UCI-amazon,negative,0.7863324706780209,True
+692a8da43b90260a,Great Pocket PC / phone combination.,positive,en,UCI-amazon,positive,0.8871977606513999,True
+06daecfbd9e0c029,الغريب,negative,ar,AFINN-ar-translated-lexicon,negative,0.8510349024671249,True
+d9b43de2dc78b4e9,والدي,positive,ar,AFINN-ar-translated-lexicon,positive,0.6365479029821663,True
+75f3f8252642bee5,سوء النماء,negative,ar,AFINN-ar-translated-lexicon,negative,0.8460366805999275,True
+43f906395e8da065,التخلص منها,negative,ar,AFINN-ar-translated-lexicon,negative,0.5956619377697334,True

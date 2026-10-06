@@ -1,0 +1,25 @@
+{
+  "total_records": 6262,
+  "language_counts": {
+    "ar": 3283,
+    "en": 2979
+  },
+  "label_counts": {
+    "negative": 3559,
+    "positive": 2703
+  },
+  "language_label_counts": {
+    "ar_negative": 2068,
+    "ar_positive": 1215,
+    "en_negative": 1491,
+    "en_positive": 1488
+  },
+  "source_counts": {
+    "AFINN-ar-translated-lexicon": 3283,
+    "UCI-amazon": 987,
+    "UCI-imdb": 996,
+    "UCI-yelp": 996
+  },
+  "english_component": "UCI Sentiment Labelled Sentences review sentences",
+  "arabic_component": "Translated AFINN Arabic sentiment terms; not full review sentences"
+}

@@ -1,0 +1,246 @@
+{
+  "generated_at_utc": "2026-08-14T10:35:34.020246+00:00",
+  "random_state": 42,
+  "neutral_uncertainty_threshold": 0.6,
+  "dataset": {
+    "total_records": 6262,
+    "language_counts": {
+      "ar": 3283,
+      "en": 2979
+    },
+    "label_counts": {
+      "negative": 3559,
+      "positive": 2703
+    },
+    "language_label_counts": {
+      "ar_negative": 2068,
+      "ar_positive": 1215,
+      "en_negative": 1491,
+      "en_positive": 1488
+    },
+    "source_counts": {
+      "AFINN-ar-translated-lexicon": 3283,
+      "UCI-amazon": 987,
+      "UCI-imdb": 996,
+      "UCI-yelp": 996
+    },
+    "english_component": "UCI Sentiment Labelled Sentences review sentences",
+    "arabic_component": "Translated AFINN Arabic sentiment terms; not full review sentences"
+  },
+  "split": {
+    "train_records": 5009,
+    "test_records": 1253
+  },
+  "feature_extraction": {
+    "type": "character n-gram TF-IDF",
+    "ngram_range": [
+      3,
+      5
+    ],
+    "feature_count_selected_model": 20930
+  },
+  "selected_model": "Logistic Regression",
+  "models": {
+    "Logistic Regression": {
+      "test": {
+        "accuracy": 0.7406225059856345,
+        "precision_macro": 0.7356854870216125,
+        "recall_macro": 0.7349231032835573,
+        "f1_macro": 0.735280256122731
+      },
+      "cross_validation": {
+        "folds": 5,
+        "accuracy_mean": 0.7403430488871436,
+        "accuracy_std": 0.012854280819227862,
+        "f1_macro_mean": 0.7338264094163097,
+        "f1_macro_std": 0.013755998702484484
+      },
+      "by_language": {
+        "ar": {
+          "records": 657,
+          "accuracy": 0.6590563165905632,
+          "precision_macro": 0.6290140904936985,
+          "recall_macro": 0.620683485417785,
+          "f1_macro": 0.6230714066181744
+        },
+        "en": {
+          "records": 596,
+          "accuracy": 0.8305369127516778,
+          "precision_macro": 0.8328797105886889,
+          "recall_macro": 0.8305369127516778,
+          "f1_macro": 0.830238218116083
+        }
+      },
+      "by_source": {
+        "AFINN-ar-translated-lexicon": {
+          "records": 657,
+          "accuracy": 0.6590563165905632,
+          "precision_macro": 0.6290140904936985,
+          "recall_macro": 0.620683485417785,
+          "f1_macro": 0.6230714066181744
+        },
+        "UCI-amazon": {
+          "records": 187,
+          "accuracy": 0.8556149732620321,
+          "precision_macro": 0.8582758620689654,
+          "recall_macro": 0.8567994505494505,
+          "f1_macro": 0.8555488799244699
+        },
+        "UCI-imdb": {
+          "records": 199,
+          "accuracy": 0.7989949748743719,
+          "precision_macro": 0.802185960591133,
+          "recall_macro": 0.7976046088538509,
+          "f1_macro": 0.7978464039008533
+        },
+        "UCI-yelp": {
+          "records": 210,
+          "accuracy": 0.8380952380952381,
+          "precision_macro": 0.8392028392028392,
+          "recall_macro": 0.8380952380952381,
+          "f1_macro": 0.837962962962963
+        }
+      },
+      "classification_report": {
+        "negative": {
+          "precision": 0.7691237830319889,
+          "recall": 0.776685393258427,
+          "f1-score": 0.7728860936408106,
+          "support": 712.0
+        },
+        "positive": {
+          "precision": 0.702247191011236,
+          "recall": 0.6931608133086876,
+          "f1-score": 0.6976744186046512,
+          "support": 541.0
+        },
+        "accuracy": 0.7406225059856345,
+        "macro avg": {
+          "precision": 0.7356854870216125,
+          "recall": 0.7349231032835573,
+          "f1-score": 0.735280256122731,
+          "support": 1253.0
+        },
+        "weighted avg": {
+          "precision": 0.7402488937397085,
+          "recall": 0.7406225059856345,
+          "f1-score": 0.7404124175078799,
+          "support": 1253.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          553,
+          159
+        ],
+        [
+          166,
+          375
+        ]
+      ]
+    },
+    "Multinomial Naive Bayes": {
+      "test": {
+        "accuracy": 0.7350359138068635,
+        "precision_macro": 0.7332900589408182,
+        "recall_macro": 0.7211286838771314,
+        "f1_macro": 0.7239589968998175
+      },
+      "cross_validation": {
+        "folds": 5,
+        "accuracy_mean": 0.7333148048517424,
+        "accuracy_std": 0.009700029616391556,
+        "f1_macro_mean": 0.7221705027931544,
+        "f1_macro_std": 0.010802514086796446
+      },
+      "by_language": {
+        "ar": {
+          "records": 657,
+          "accuracy": 0.6681887366818874,
+          "precision_macro": 0.6425733077555495,
+          "recall_macro": 0.5930846305242441,
+          "f1_macro": 0.5872068893961403
+        },
+        "en": {
+          "records": 596,
+          "accuracy": 0.8087248322147651,
+          "precision_macro": 0.8143892481996238,
+          "recall_macro": 0.8087248322147651,
+          "f1_macro": 0.8078593728790553
+        }
+      },
+      "by_source": {
+        "AFINN-ar-translated-lexicon": {
+          "records": 657,
+          "accuracy": 0.6681887366818874,
+          "precision_macro": 0.6425733077555495,
+          "recall_macro": 0.5930846305242441,
+          "f1_macro": 0.5872068893961403
+        },
+        "UCI-amazon": {
+          "records": 187,
+          "accuracy": 0.839572192513369,
+          "precision_macro": 0.8487733644859813,
+          "recall_macro": 0.8417467948717949,
+          "f1_macro": 0.8390151515151516
+        },
+        "UCI-imdb": {
+          "records": 199,
+          "accuracy": 0.7839195979899497,
+          "precision_macro": 0.7862919737919738,
+          "recall_macro": 0.7826460481099656,
+          "f1_macro": 0.7828448166476336
+        },
+        "UCI-yelp": {
+          "records": 210,
+          "accuracy": 0.8047619047619048,
+          "precision_macro": 0.8111111111111111,
+          "recall_macro": 0.8047619047619048,
+          "f1_macro": 0.8037606837606838
+        }
+      },
+      "classification_report": {
+        "negative": {
+          "precision": 0.73989898989899,
+          "recall": 0.8230337078651685,
+          "f1-score": 0.7792553191489362,
+          "support": 712.0
+        },
+        "positive": {
+          "precision": 0.7266811279826464,
+          "recall": 0.6192236598890942,
+          "f1-score": 0.6686626746506986,
+          "support": 541.0
+        },
+        "accuracy": 0.7350359138068635,
+        "macro avg": {
+          "precision": 0.7332900589408182,
+          "recall": 0.7211286838771314,
+          "f1-score": 0.7239589968998175,
+          "support": 1253.0
+        },
+        "weighted avg": {
+          "precision": 0.7341919960468416,
+          "recall": 0.7350359138068635,
+          "f1-score": 0.7315054223623867,
+          "support": 1253.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          586,
+          126
+        ],
+        [
+          206,
+          335
+        ]
+      ]
+    }
+  },
+  "important_limitations": [
+    "English evaluation uses held-out review sentences from UCI.",
+    "Arabic evaluation uses held-out translated AFINN sentiment terms, not a full Arabic review corpus.",
+    "Neutral is an uncertainty/abstention output below a probability threshold, not a trained third class."
+  ]
+}

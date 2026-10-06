@@ -1,0 +1,11 @@
+{
+  "selected_model": "Logistic Regression",
+  "model_path": "models/best_model.joblib",
+  "labels": [
+    "negative",
+    "positive"
+  ],
+  "neutral_uncertainty_threshold": 0.6,
+  "input_preprocessing": "src.text_utils.normalize_text",
+  "feature_count": 20930
+}
